@@ -1,4 +1,4 @@
-# Interview-Preparation
+# Interview Preparation Checklist
 
 <table class="tg">
   <tr>
