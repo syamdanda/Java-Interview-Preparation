@@ -171,6 +171,20 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
+    <td class="tg-yw4l">APIGee</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">KONG</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">Kafka</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
