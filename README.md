@@ -47,7 +47,7 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Multy-threading</td>
+    <td class="tg-yw4l">Multi-threading</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
