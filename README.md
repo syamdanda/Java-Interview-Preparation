@@ -243,3 +243,7 @@
     <td class="tg-yw4l"></td>
   </tr>
 </table>
+
+## 1. Java Basics
+
+1. Why Java called as WORA.
