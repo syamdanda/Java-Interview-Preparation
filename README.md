@@ -254,19 +254,19 @@
 
 ## 1. Java Basics
 
-What is JAVA
-Explain JDK, JRE and JVM
-Explain public static void main(String args[]) in Java
-Why Java is platform independent
-Why Java is not 100% Object-oriented
-What are wrapper classes in Java
-What are constructors in Java
-What is singleton class in Java and how can we make a class singleton
-What is the difference between Array list and vector in Java
-What is the difference between equals() and == in Java
-What are the differences between Heap and Stack Memory in Java
-What are the features in JAVA
-How does Java enable high performance
-What is meant by the Local variable and the Instance variable
+What is JAVA<br/>
+Explain JDK, JRE and JVM<br/>
+Explain public static void main(String args[]) in Java<br/>
+Why Java is platform independent<br/>
+Why Java is not 100% Object-oriented<br/>
+What are wrapper classes in Java<br/>
+What are constructors in Java<br/>
+What is singleton class in Java and how can we make a class singleton<br/>
+What is the difference between Array list and vector in Java<br/>
+What is the difference between equals() and == in Java<br/>
+What are the differences between Heap and Stack Memory in Java<br/>
+What are the features in JAVA<br/>
+How does Java enable high performance<br/>
+What is meant by the Local variable and the Instance variable<br/>
 
 ## 1. Oops
