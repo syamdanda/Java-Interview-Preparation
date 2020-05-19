@@ -17,14 +17,7 @@
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Basic Programs</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-  </tr>
+  </tr> 
   <tr>
     <td class="tg-yw4l">Oops</td>
     <td class="tg-yw4l"></td>
@@ -250,8 +243,30 @@
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Java Programs</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
 </table>
 
 ## 1. Java Basics
 
-1. Why Java called as WORA.
+What is JAVA
+Explain JDK, JRE and JVM?
+Explain public static void main(String args[]) in Java
+Why Java is platform independent
+Why Java is not 100% Object-oriented
+What are wrapper classes in Java
+What are constructors in Java
+What is singleton class in Java and how can we make a class singleton
+What is the difference between Array list and vector in Java
+What is the difference between equals() and == in Java
+What are the differences between Heap and Stack Memory in Java
+What are the features in JAVA
+How does Java enable high performance
+What is meant by the Local variable and the Instance variable
+
+## 1. Oops
