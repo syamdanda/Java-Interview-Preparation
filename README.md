@@ -124,6 +124,14 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
+    <tr>
+    <td class="tg-yw4l">Spring AOP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">Spring Cloud</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
