@@ -255,7 +255,7 @@
 ## 1. Java Basics
 
 What is JAVA
-Explain JDK, JRE and JVM?
+Explain JDK, JRE and JVM
 Explain public static void main(String args[]) in Java
 Why Java is platform independent
 Why Java is not 100% Object-oriented
