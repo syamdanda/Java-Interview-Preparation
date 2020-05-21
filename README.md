@@ -306,11 +306,21 @@ What is composition in Java <br/>
 What is Polymorphism <br/>
 What is meant by Method Overriding <br/>
 What is meant by Overloading <br/>
+What is the method of hiding in Java <br/>
+What are the rules of method overloading and overriding in Java <br/>
 If I only change the return type, will the method become overloaded <br/>
 What restrictions are placed on method Overloading <br/>
 What is a constructor overloading in Java <br/>
 Why will Java Not Support Operator Overloading <br/>
 Can you override a private or static method in Java <br/>
+Can we prevent overriding a method without using the final modifier <br/>
+What is the covariant method overriding in Java <br/>
+Can we override a method that throws runtime exception without throws clause <br/>
+Can we change the argument list of an overriding method <br/>
+Can we override a non-static method as static in Java <br/>
+Can we override the final method in Java <br/>
+What is the difference between Polymorphism, Overloading, and Overriding <br/>
+What is the difference between abstraction and polymorphism in Java <br/>
 What is meant by Interface <br/>
 What modifiers may use with an interface declaration <br/>
 Can a class be defined within an interface <br/>
@@ -320,7 +330,9 @@ What’s Externalizable <br/>
 What is abstraction in Java <br/>
 What is meant by Abstract class <br/>
 When to use an abstract class over an interface <br/>
+Can we have a non-abstract method inside an interface <br/>
 Will an object reference be cast to an interface reference <br/>
+Can an interface extend more than one interface in Java <br/>
 What is Inheritance <br/>
 What are the different types of inheritance in Java <br/>
 What is multiple inheritance <br/> Is it supported by Java <br/>
@@ -354,9 +366,9 @@ What does the final keyword mean <br/>
 Give the definition of “interface”.
 What modifiers have fields and methods of interfaces by default <br/>
 Why can’t I declare an interface method with a final or static modifier <br/>
-What types of classes are in java (nested … etc.)
-What are the features of creating nested classes: simple and static.
-What do you know about nested classes, why are they used <br/> Classification, use cases, violation of encapsulation.
+What types of classes are in java (nested … etc.) <br/>
+What are the features of creating nested classes: simple and static. <br/>
+What do you know about nested classes, why are they used ? Classification, use cases, violation of encapsulation. <br/>
 What is the difference between nested and inner classes <br/>
 Which classes are called anonymous <br/>
 How from the nested class to get access to the field of the outer class <br/>
@@ -380,6 +392,9 @@ What are the features of the initialization of final variables <br/>
 What happens if a single class constructor is declared final <br/>
 What is finalize <br/> Why is it needed <br/> What can you tell about the garbage collector and the algorithms of its work.
 Why is the clone method declared protected <br/> What is needed to implement cloning <br/>
+What is the difference between Association, Aggregation, and Composition in OOP <br/>
+What is the 5 objects oriented design principle from SOLID <br/>
+What is the difference between Composition and Inheritance in OOP <br/>
 
 
 ## 3. Exception Handling
@@ -434,6 +449,11 @@ What value does read() return when it has reached the end of a file
 
 ## Misc.
 How to use observer and Observable
+What problem is solved by the Strategy pattern in Java
+Which OOP concept Decorator design Pattern is based upon
+What is the difference between Decorator, Proxy and Adapter pattern in Java
+When to use the Singleton design pattern in Java
+What is the difference between State and Strategy Patterns
 What is the Output From System.out.println(“hello”+null);
 What are E and Pi
 If an object is garbage collected, will it become reachable again
