@@ -399,8 +399,13 @@ What is the difference between Composition and Inheritance in OOP <br/>
 
 ## 3. Exception Handling
 
-Will an exception is rethrown
-What happens if an exception not caught
+What is an exception <br/>
+How the exceptions are handled in java<br/>
+What is the difference between error and exception in java<br/>
+Can we keep other statements in between try, catch and finally blocks<br/>
+Can we write only try block without catch and finally blocks<br/>
+Will an exception is rethrown<br/>
+What happens if an exception not caught<br/>
 
 
 
