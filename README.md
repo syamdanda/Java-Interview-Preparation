@@ -431,9 +431,6 @@ What value does read() return when it has reached the end of a file
 
 ## Lambda Expressions
 
-
-
-
 ## Functional Programming
 
 
