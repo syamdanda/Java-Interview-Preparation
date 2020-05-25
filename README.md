@@ -286,6 +286,7 @@ How to define a constant Variable in Java <br/>
 What’s s transient variable <br/>
 Is Sizeof a keyword <br/>
 What do you understand by private, protected and public <br/>
+What will be the problem if you don't override hashCode() method <br/>
 
 ## 2. Oops
 
