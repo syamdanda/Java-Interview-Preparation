@@ -268,8 +268,8 @@
 5. Are JVM’s Platform Independent <br/>
 6. Explain public static void main(String args[]) in Java <br/>
 7. Should the Main method declare compulsorily in all Java Classes <br/>
-8. How can we overload the Main Method in java
-9. How can declare final to the main method
+8. How can we overload the Main Method in java<br/>
+9. How can declare final to the main method<br/>
 10. Why Java is platform independent <br/>
 11. Why Java is not 100% Object-oriented <br/>
 12. What are the features in JAVA <br/>
@@ -336,7 +336,7 @@
 44. Can an interface extend more than one interface in Java <br/>
 45. What is Inheritance <br/>
 46. What are the different types of inheritance in Java <br/>
-47. What is multiple inheritance <br/> Is it supported by Java <br/>
+47. What is multiple inheritance  <br/> Is it supported by Java <br/>
 48. What is a diamond problem <br/>
 49. What do the keywords “this”, “super” say, where and how can they be used <br/>
 50. Difference between Abstract class and Interface <br/>
@@ -368,31 +368,31 @@
 76. Why can’t I declare an interface method with a final or static modifier <br/>
 77. What types of classes are in java (nested … etc.) <br/>
 78. What are the features of creating nested classes: simple and static. <br/>
-79. What do you know about nested classes, why are they used  <br/> Classification, use cases, violation of encapsulation. <br/>
+79. What do you know about nested classes, why are they used; Classification, use cases, violation of encapsulation. <br/>
 80. What is the difference between nested and inner classes <br/>
 81. Which classes are called anonymous <br/>
 82. How from the nested class to get access to the field of the outer class <br/>
-83. How can I access the local variable of a method from an anonymous class declared in the body of this method <br/> Are there any restrictions for such a variable <br/>
+83. How can I access the local variable of a method from an anonymous class declared in the body of this method. Are there any restrictions for such a variable <br/>
 84. How is any custom class related to the Object class <br/>
-85. Tell us about each of the methods of the Object class.
-​​86. What is the equals () method. How it differs from the operation ==.
+85. Tell us about each of the methods of the Object class. <br/>
+​​86. What is the equals () method. How it differs from the operation ==. <br/>
 87. If you want to override equals (), which conditions must be satisfied for the overridden method <br/>
 88. If equals () is overridden, are there any other methods that should be overridden <br/>
 89. What are the features of the hashCode and equals methods <br/> 
-90. How are the hashCode and equals methods implemented in the Object class? What rules and conventions exist to implement these methods <br/>
+90. How are the hashCode and equals methods implemented in the Object class <br/> What rules and conventions exist to implement these methods <br/>
 91. Which method returns a string representation of an object <br/>
-92. What happens if you redefine equals without overriding hashCode ? What problems may arise <br/>
+92. What happens if you redefine equals without overriding hashCode  <br/> What problems may arise <br/>
 93. Are there any recommendations on which fields should be used when calculating hashCode <br/>
 94. What do you think, will there be any problems if an object that is used as a key in a hashMap has a field that participates in the definition of hashCode <br/>
 95. What is the difference between an abstract class and an interface, in which cases what will you use <br/>
 96. Is it possible to access private class variables and, if so, how <br/>
-97. What is volatile and transient <br/> For what and in what cases it would be possible to use default <br/>
-98. Expanding modifiers for inheritance, overriding and hiding methods. If the parent class has a method declared as private, can the heir expand its visibility ? And if protected ? And narrow visibility <br/>
+97. What is volatile and transient. For what and in what cases it would be possible to use default <br/>
+98. Expanding modifiers for inheritance, overriding and hiding methods. If the parent class has a method declared as private, can the heir expand its visibility  <br/> And if protected  <br/> And narrow visibility <br/>
 99. Does it make sense to declare the method private final <br/>
 100. What are the features of the initialization of final variables <br/>
 101. What happens if a single class constructor is declared final <br/>
-102. What is finalize ? Why is it needed ? What can you tell about the garbage collector and the algorithms of its work.
-103. Why is the clone method declared protected <br/> What is needed to implement cloning <br/>
+102. What is finalize  <br/> Why is it needed  <br/> What can you tell about the garbage collector and the algorithms of its work.<br/>
+103. Why is the clone method declared protected. What is needed to implement cloning <br/>
 104. What is the difference between Association, Aggregation, and Composition in OOP <br/>
 105. What is the 5 objects oriented design principle from SOLID <br/>
 106. What is the difference between Composition and Inheritance in OOP <br/>
@@ -447,80 +447,135 @@
 
 ## 4. Collections
 
-1. What is the Java Collection framework? List down its advantages <br/>
-2. Explain Collection’s hierarchy and What are the basic interfaces of Java Collections Framework ?
-3. Why Collection interface does not extend Cloneable and Serializable interface?
-4. Why Map interface does not extend Collection interface?
-5. What are the main differences between array and collection?
-6. Explain various interfaces used in Collection framework?
-7. What is the difference between ArrayList and Vector?
-8. What is the difference between ArrayList and LinkedList?
-9. What is an Iterator ?
-10. What is the difference between Iterator and ListIterator?
-11. What is the difference between Iterator and Enumeration?
-12. List down the primary interfaces provided by Java Collections Framework?
-13. List down the major advantages of the Generic Collection?
-14. How the Collection objects are sorted in Java?
-15. What is the use of the List interface?
-16. What is ArrayList in Java?
-17. How would you convert an ArrayList to Array and an Array to ArrayList?
-18. What do you understand by LinkedList in Java; How many types of LinkedList does Java support?
-19. What is a Vector in Java?
-20. What are the various methods provided by the Queue interface?
-21. What do you understand by BlockingQueue?
-22. What is a priority queue in Java?
-23. What is the Stack class in Java and what are the various methods provided by it?
-24. What is Set in Java Collections framework and list down its various implementations?
-25. What is the HashSet class in Java and how does it store elements?
-26. Can you add a null element into a TreeSet or HashSet?
-27. Explain the emptySet() method in the Collections framework?
-28. What is LinkedHashSet in Java Collections Framework?
-29. What is Map interface in Java?
-30. Why Map doesn’t extend the Collection Interface?
-31. List down the different Collection views provided by the Map interface in the Java Collection framework?
-32. What is the ConcurrentHashMap in Java and do you implement it?
-33. Can you use any class as a Map key?
-34. Differentiate between Collection and Collections?
-35. Differentiate between an Array and an ArrayList?
-36. Differentiate between Iterable and Iterator?
-37. Differentiate between ArrayList and LinkedList?
-38. Differentiate between Comparable and Comparator?
-39. Differentiate between List and Set?
-40.  Differentiate between Set and Map?
-41. Differentiate between List and Map?
-42. Differentiate between Queue and Stack?
-43. Differentiate between PriorityQueue and TreeSet?
-44. Differentiate between the Singly Linked List and Doubly Linked List?
-45. Differentiate between HashMap and HashTable?
-46. Differentiate between HashSet and HashMap?
-47. Differentiate between HashSet and TreeSet?
-48. Differentiate between Queue and Deque?
-49. Differentiate between HashMap and TreeMap?
-50. Differentiate between ArrayList and Vector?
-51. Differentiate between failfast and failsafe?
-52. How does HashMap work in Java?
-53. What is the difference between poll() and remove() method of Queue interface?
-54. What is the difference between Synchronized Collection and Concurrent Collection?
-55. How does HashSet is implemented in Java, How does it use Hashing?
-56. What do you need to do to use a custom object as a key in Collection classes like Map or Set?
-57. When do you use ConcurrentHashMap in Java?
-58. What is NavigableMap in Java? What is a benefit over Map?
-59. Can we replace Hashtable with ConcurrentHashMap?
-60. What is CopyOnWriteArrayList, how it is different than ArrayList and Vector?
-61. Why ListIterator has added() method but Iterator doesn't or Why to add() method is declared in ListIterator and not on Iterator?
-62. When does ConcurrentModificationException occur on iteration?
-63. What is BlockingQueue, how it is different than other collection classes?
-64. What Is the Purpose of the Initial Capacity and Load Factor Parameters of a Hashmap? What Are Their Default Values?
-65. Describe Special Collections for Enums. What Are the Benefits of Their Implementation Compared to Regular Collections?
-66. What are IdentityHashMap and WeakHashMap?
-67. How to make a collection read only?
-68. How to make a collection thread safe?
-69. What is UnsupportedOperationException?
-70. Which collection classes provide random access of it’s elements?
-71. What is BlockingQueue?
+1. What is the Java Collection framework <br/> List down its advantages <br/>
+2. Explain Collection’s hierarchy and What are the basic interfaces of Java Collections Framework  <br/>
+3. Why Collection interface does not extend Cloneable and Serializable interface <br/>
+4. Why Map interface does not extend Collection interface <br/>
+5. What are the main differences between array and collection <br/>
+6. Explain various interfaces used in Collection framework <br/>
+7. What is the difference between ArrayList and Vector <br/>
+8. What is the difference between ArrayList and LinkedList <br/>
+9. What is an Iterator  <br/>
+10. What is the difference between Iterator and ListIterator <br/>
+11. What is the difference between Iterator and Enumeration <br/>
+12. List down the primary interfaces provided by Java Collections Framework <br/>
+13. List down the major advantages of the Generic Collection <br/>
+14. How the Collection objects are sorted in Java <br/>
+15. What is the use of the List interface <br/>
+16. What is ArrayList in Java <br/>
+17. How would you convert an ArrayList to Array and an Array to ArrayList <br/>
+18. What do you understand by LinkedList in Java; How many types of LinkedList does Java support <br/>
+19. What is a Vector in Java <br/>
+20. What are the various methods provided by the Queue interface <br/>
+21. What do you understand by BlockingQueue <br/>
+22. What is a priority queue in Java <br/>
+23. What is the Stack class in Java and what are the various methods provided by it <br/>
+24. What is Set in Java Collections framework and list down its various implementations <br/>
+25. What is the HashSet class in Java and how does it store elements <br/>
+26. Can you add a null element into a TreeSet or HashSet <br/>
+27. Explain the emptySet() method in the Collections framework <br/>
+28. What is LinkedHashSet in Java Collections Framework <br/>
+29. What is Map interface in Java <br/>
+30. Why Map doesn’t extend the Collection Interface <br/>
+31. List down the different Collection views provided by the Map interface in the Java Collection framework <br/>
+32. What is the ConcurrentHashMap in Java and do you implement it <br/>
+33. Can you use any class as a Map key <br/>
+34. Differentiate between Collection and Collections <br/>
+35. Differentiate between an Array and an ArrayList <br/>
+36. Differentiate between Iterable and Iterator <br/>
+37. Differentiate between ArrayList and LinkedList <br/>
+38. Differentiate between Comparable and Comparator <br/>
+39. Differentiate between List and Set <br/>
+40.  Differentiate between Set and Map <br/>
+41. Differentiate between List and Map <br/>
+42. Differentiate between Queue and Stack <br/>
+43. Differentiate between PriorityQueue and TreeSet <br/>
+44. Differentiate between the Singly Linked List and Doubly Linked List <br/>
+45. Differentiate between HashMap and HashTable <br/>
+46. Differentiate between HashSet and HashMap <br/>
+47. Differentiate between HashSet and TreeSet <br/>
+48. Differentiate between Queue and Deque <br/>
+49. Differentiate between HashMap and TreeMap <br/>
+50. Differentiate between ArrayList and Vector <br/>
+51. Differentiate between failfast and failsafe <br/>
+52. How does HashMap work in Java <br/>
+53. What is the difference between poll() and remove() method of Queue interface <br/>
+54. What is the difference between Synchronized Collection and Concurrent Collection <br/>
+55. How does HashSet is implemented in Java, How does it use Hashing <br/>
+56. What do you need to do to use a custom object as a key in Collection classes like Map or Set <br/>
+57. When do you use ConcurrentHashMap in Java <br/>
+58. What is NavigableMap in Java <br/> What is a benefit over Map <br/>
+59. Can we replace Hashtable with ConcurrentHashMap <br/>
+60. What is CopyOnWriteArrayList, how it is different than ArrayList and Vector <br/>
+61. Why ListIterator has added() method but Iterator doesn't or Why to add() method is declared in ListIterator and not on Iterator <br/>
+62. When does ConcurrentModificationException occur on iteration <br/>
+63. What is BlockingQueue, how it is different than other collection classes <br/>
+64. What Is the Purpose of the Initial Capacity and Load Factor Parameters of a Hashmap <br/> What Are Their Default Values <br/>
+65. Describe Special Collections for Enums. What Are the Benefits of Their Implementation Compared to Regular Collections <br/>
+66. What are IdentityHashMap and WeakHashMap <br/>
+67. How to make a collection read only <br/>
+68. How to make a collection thread safe <br/>
+69. What is UnsupportedOperationException <br/>
+70. Which collection classes provide random access of it’s elements <br/>
+71. What is BlockingQueue <br/>
 
 
 ## 5. Multi-threading
+
+1. What is Thread in JAVA and how do you implement it <br/>
+2. What is the difference between Process and Thread <br/>
+3. What are the benefits of multi-threaded programming <br/>
+4. What is difference between user Thread and daemon Thread <br/>
+5. How can we create a Thread in Java <br/>
+6. What are different states in lifecycle of Thread <br/>
+7. Can we call run() method of a Thread class <br/>
+8. How can we pause the execution of a Thread for specific time <br/>
+9. What do you understand about Thread Priority <br/>
+10. What is Thread Scheduler and Time Slicing <br/>
+11. What is context-switching in multi-threading <br/>
+12. How can we make sure main() is the last thread to finish in Java Program <br/>
+13. How does thread communicate with each other <br/>
+14. Why thread communication methods wait(), notify() and notifyAll() are in Object class <br/>
+15. Why wait(), notify() and notifyAll() methods have to be called from synchronized method or block <br/>
+16. Why Thread sleep() and yield() methods are static <br/>
+17. How can we achieve thread safety in Java <br/>
+18. What is volatile keyword in Java
+19. Which is more preferred – Synchronized method or Synchronized block <br/>
+20. How to create daemon thread in Java <br/>
+21. What is ThreadLocal <br/>
+22. What is Thread Group; Why it’s advised not to use it <br/>
+23. What is Java Thread Dump, How can we get Java Thread dump of a Program <br/>
+24. What is Deadlock; How to analyze and avoid deadlock situation <br/>
+25. What is Java Timer Class; How to schedule a task to run after specific interval <br/>
+26. What is Thread Pool; How can we create Thread Pool in Java <br/>
+27. What will happen if we don’t override Thread class run() method <br/>
+28. When to use Runnable and when to use Thread in Java <br/>
+29. Why is it said that Thread’s behavior is unpredictable <br/>
+30. How to force start a thread in Java <br/>
+31. Does thread leave object lock when wait() and sleep() methods are called <br/>
+32. What is  a life cycle of a thread <br/>
+33. What is the difference between starting a thread with start() method and run() method <br/> 
+34. How to create a Daemon thread in java <br/>
+35. Difference and similarities between sleep and yield method <br/>
+36. What is the difference between class lock and object lock <br/>
+37. What is the difference between Callable and Runnable <br/>
+38. Can a constructor be synchronized, why <br/>
+39. What is race condition in java and how we can solve it <br/>
+40. What is ThreadLocal variable in java <br/>
+41. Can you find whether thread holds lock() on an object or not <br/>
+42. You have thread T1, T2, and T3. How will you ensure that thread T2 is run after T1 and thread T3 after T2 <br/>
+43. What is an atomic operation <br/> What are atomic operations in Java <br/>
+44. Why do we call start() method which in turns calls run() method, why not we directly call run() method <br/>
+45. What is the difference between CyclicBarriar and CountdownLatch in Java <br/> 
+46. What is an immutable object and How does it help in writing a concurrent application <br/>
+47. What is context switching in multi-threading <br/>
+48. Difference between deadlock and livelock, deadlock and starvation <br/>
+49. What thread-scheduling algorithm is used in Java <br/>
+50. Why is the Executor framework better than creating and managing threads via the application <br/>
+51. Difference between Executor and Executors in Java <br/>
+52. How to find which thread is taking maximum CPU in windows and Linux server <br/>
+53. Does Thread implements their own Stack, if yes how <br/>
+54. 
 
 How to restart a Dead Thread Be <br/>
 What state will a thread enter once it terminates its processing
