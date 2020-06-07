@@ -441,7 +441,7 @@
 39. What is a stacktrace and how does it relate to an exception <br/>
 40. an you throw any exception inside a lambda expression’s body <br/>
 41. Java Exception Handling Best Practices <br/>
-42.  Is There Any Way of Throwing a Checked Exception from a Method That Does Not Have a Throws Clause <br/>
+42. Is There Any Way of Throwing a Checked Exception from a Method That Does Not Have a Throws Clause <br/>
 
 
 
