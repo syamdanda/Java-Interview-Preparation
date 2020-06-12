@@ -1,6 +1,5 @@
 # Interview Preparation Checklist - Java Developer
 
-
 # Java
 
 <table class="tg">
