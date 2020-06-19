@@ -290,6 +290,14 @@
 ## 2. Oops
 
 1. What is a Class <br/>
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: 
+Class is a user defined structure/datatype in java.
+
+</p>
+</details>
 2. What is a class field / attribute <br/>
 3. What do you know about Java class loading <br/>
 4. Explain Java class loaders <br/>
