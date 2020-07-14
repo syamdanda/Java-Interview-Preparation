@@ -616,16 +616,16 @@ What value does read() return when it has reached the end of a file
 
 
 ## Misc.
-How to use observer and Observable
-What problem is solved by the Strategy pattern in Java
-Which OOP concept Decorator design Pattern is based upon
-What is the difference between Decorator, Proxy and Adapter pattern in Java
-When to use the Singleton design pattern in Java
-What is the difference between State and Strategy Patterns
-What is the Output From System.out.println(“hello”+null);
-What are E and Pi
-If an object is garbage collected, will it become reachable again
-Will an Object Garbage Collected whereas it’s Still Reachable
-When will an object’s Finalize() method Invoke
-Will garbage collection guarantee that a program won’t run out of memory
-Is a class subclass of itself
+How to use observer and Observable<br/>
+What problem is solved by the Strategy pattern in Java<br/>
+Which OOP concept Decorator design Pattern is based upon<br/>
+What is the difference between Decorator, Proxy and Adapter pattern in Java<br/>
+When to use the Singleton design pattern in Java<br/>
+What is the difference between State and Strategy Patterns<br/>
+What is the Output From System.out.println(“hello”+null);<br/>
+What are E and Pi<br/>
+If an object is garbage collected, will it become reachable again<br/>
+Will an Object Garbage Collected whereas it’s Still Reachable<br/>
+When will an object’s Finalize() method Invoke<br/>
+Will garbage collection guarantee that a program won’t run out of memory<br/>
+Is a class subclass of itself<br/>
