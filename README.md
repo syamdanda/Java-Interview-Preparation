@@ -543,7 +543,7 @@ Class is a user defined structure/datatype in java.
 13. How does thread communicate with each other <br/>
 14. Why thread communication methods wait(), notify() and notifyAll() are in Object class <br/>
 15. Why wait(), notify() and notifyAll() methods have to be called from synchronized method or block <br/>
-16. Why Thread sleep() and yield() methods are static <br/>
+16. Why Thread sleep() and yield() methods are static & differences between these methods<br/>
 17. How can we achieve thread safety in Java <br/>
 18. What is volatile keyword in Java
 19. Which is more preferred – Synchronized method or Synchronized block <br/>
@@ -565,7 +565,7 @@ Class is a user defined structure/datatype in java.
 35. Difference and similarities between sleep and yield method <br/>
 36. What is the difference between class lock and object lock <br/>
 37. What is the difference between Callable and Runnable <br/>
-38. Can a constructor be synchronized, why <br/>
+38. Can a constructor be synchronized, If yes How? not then why <br/>
 39. What is race condition in java and how we can solve it <br/>
 40. What is ThreadLocal variable in java <br/>
 41. Can you find whether thread holds lock() on an object or not <br/>
@@ -581,19 +581,60 @@ Class is a user defined structure/datatype in java.
 51. Difference between Executor and Executors in Java <br/>
 52. How to find which thread is taking maximum CPU in windows and Linux server <br/>
 53. Does Thread implements their own Stack, if yes how <br/>
-54. 
-
-How to restart a Dead Thread Be <br/>
-What state will a thread enter once it terminates its processing
-Will a lock acquire on a class
-What is an object’s lock and which objects have locks
-Explain a task’s priority and also tell how it is used in scheduling
+54. How to restart a Dead Thread <br/>
+55. What state will a thread enter once it terminates its processing
+56. Will a lock acquire on a class
+57. What is an object’s lock and which objects have locks
+58. Explain a task’s priority and also tell how it is used in scheduling
+59. What is synchronization
+60. What is the purpose of Synchronized block
+61. What is class level lock
+62. What is Synchronized statement
+63. What is difference between yield() and sleep() methods?
+64. What join() method does?
+65. What is Java Shutdown Hook?
+66. How can multiple threads be controlled simultaneously?
+67. How can you share data between two thread in Java?
+68. What is ReentrantLock in Java? Have you used it before?
+69. What is ReadWriteLock in Java? What is the benefit of using ReadWriteLock in Java
+70. What is the difference between submit() and execute() method of Executor and ExecutorService in Java
+71. Why is ConcurrentHashMap faster than Hashtable in Java
+72. What is the difference between CountDownLatch and CyclicBarrier in Java
+73. What is Busy Spinning? Why will you use Busy Spinning as wait strategy
+74. What is the advantage of a new Lock interface over a synchronized block in Java
+75. 
 
 
 ## Files & I/O
 
-Tell us the difference between the reader/writer class hierarchy and also the Inputstream/outputstream class Hierarchy
-What value does read() return when it has reached the end of a file
+1. What are the types of I / O streams?
+2. What are the main ancestors of I / O streams?
+3. What is common and how do the following streams differ: InputStream, OutputStream, Reader, Writer?
+4. What do you know about RandomAccessFile?
+5. What are the file access modes?
+6.What packages are stream classes in?
+7. What do you know about add-on classes?
+8. Which superstructure class allows reading data from an input byte stream in the format of primitive data types?
+9. What class add-on allows you to speed up reading / writing by using a buffer?
+10. What classes allow you to convert byte streams to character and back?
+11. What class is designed to work with the elements of the file system (EFS)?
+12. Which symbol is a separator when indicating the path to the EFS?
+13. How to select all EFS of a specific catalog by criterion (for example, with a certain extension)?
+14. What do you know about the FilenameFilter interface?
+15. What is serialization?
+16. What are the conditions for “successful” serialization of an object?
+17. What classes allow you to archive objects?
+18. Tell us the difference between the reader/writer class hierarchy and also the Inputstream/outputstream class Hierarchy
+19. What value does read() return when it has reached the end of a file
+20. Which class is used to create a directory in Java
+21. What is the difference between FileInputStream and FileReader
+22. What is the difference between BufferedReader, Scanner and FileReader
+23. What is the file descriptor
+24. Can we monitor a directory for adding new files in Java
+25. What is a memory-mapped file in Java
+26.What is difference between getPath(), getCanonicalPath() and getAbsolutePath() in Java
+27. How do you convert an InputStream to ByteArray in Java
+
 
 ## Lambda Expressions
 
