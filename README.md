@@ -607,7 +607,7 @@ Class is a user defined structure/datatype in java.
 
 ## Files & I/O
 
-1. What are the types of I / O streams<br/>
+1. What are the types of I / O streams <br/>
 2. What are the main ancestors of I / O streams<br/>
 3. What is common and how do the following streams differ: InputStream, OutputStream, Reader, Writer<br/>
 4. What do you know about RandomAccessFile<br/>
@@ -638,8 +638,31 @@ Class is a user defined structure/datatype in java.
 
 ## Lambda Expressions
 
-## Functional Programming
+What is lambda expression <br/>
+What are the main characteristics of the Lambda Function <br/>
+Why lambda expression is called a poly expression <br/>
+What is block lambda expression <br/>
+How do you use lambda expression with functional interface <br/>
+Explain target typing with an example <br/>
+How target type is inferred for the lambda expression <br/>
 
+
+
+
+## Functional Interface & Programming
+
+What is functional interface annotation & What is SAM Interface <br/>
+Is it mandatory to mark functional interface with @FunctionalInterface annotation <br/>
+How many parameters can a lambda expression have <br/>
+What are the three parts of a Lambda Expression? What is the type of Lambda Expression <br/>
+What is method reference in Java 8, Give an example and mention types of method reference <br/>
+Can lambda expressions be used to implement interfaces having default and static methods <br/>
+What are Supplier and Consumer Functional interface <br/>
+What is effective final in Java? What is variable capture <br/>
+How can we write comparator as lambda expression <br/>
+How can we write callable as lambda expression <br/>
+Can lambda expression throw exception? Is there any restriction in lambda expression exception handling <br/>
+What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Optional <br/>
 
 ## Reactive Programing
 
@@ -649,7 +672,24 @@ Class is a user defined structure/datatype in java.
 
 
 ## Streams
-What is the difference between Collection and Stream
+
+What is the difference between Collection and Stream <br/>
+What is the difference between limit and skip <br/>
+What does the map() function do? why you use it <br/>
+What does the filter() method do? when you use it <br/>
+What does the flatmap() function do? why you need it <br/>
+What is difference between flatMap() and map() functions <br/>
+What is the difference between intermediate and terminal operations on Stream <br/>
+What does the peek() method does? When should you use it <br/>
+What do you mean by saying Stream is lazy <br/>
+What is a functional interface in Java 8 <br/>
+What is the difference between Iterator and Spliterator <br/>
+What is the difference between a normal and functional interface in Java <br/>
+What is difference between findFirst() and findAny() method <br/>
+What is a Predicate interface <br/>
+What is the difference between Java 8 Internal and External Iteration <br/>
+Can you convert an array to Stream? How <br/>
+What is the parallel Stream? How can you get a parallel stream from a List <br/>
 
 
 
