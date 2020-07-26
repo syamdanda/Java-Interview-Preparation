@@ -138,6 +138,13 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Spring Cloud Config Server</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">Spring security</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
