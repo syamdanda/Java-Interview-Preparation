@@ -673,6 +673,18 @@ What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Opt
 
 ## Reactive Programing
 
+What is reactive programming <br/>
+What are the important characteristics of the Reactive system <br/>
+What is data streams <br/>
+What is Asynchronus feature in reactive programming <br/>
+What do you mean by non-blocking <br/>
+Explain about Back-pressure concept in reactive programming <br/>
+How do you handle exceptions in Reactive Programming <br/>
+What are the benefits of Reactive Programming <br/>
+Which framework can be used for reactive programming in spring <br/>
+Define Mono and Flux types <br/>
+What are the common features of Mono and Flux <br/>
+What is the basic difference between Mono and Flux in Spring <br/>
 
 
 ## Serverless Arch.
