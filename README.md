@@ -609,7 +609,6 @@ Class is a user defined structure/datatype in java.
 72. What is the difference between CountDownLatch and CyclicBarrier in Java<br/>
 73. What is Busy Spinning? Why will you use Busy Spinning as wait strategy<br/>
 74. What is the advantage of a new Lock interface over a synchronized block in Java<br/>
-75. 
 
 
 ## Files & I/O
@@ -619,7 +618,7 @@ Class is a user defined structure/datatype in java.
 3. What is common and how do the following streams differ: InputStream, OutputStream, Reader, Writer<br/>
 4. What do you know about RandomAccessFile<br/>
 5. What are the file access modes<br/>
-6.What packages are stream classes in<br/>
+6. What packages are stream classes in<br/>
 7. What do you know about add-on classes<br/>
 8. Which superstructure class allows reading data from an input byte stream in the format of primitive data types<br/>
 9. What class add-on allows you to speed up reading / writing by using a buffer<br/>
@@ -639,7 +638,7 @@ Class is a user defined structure/datatype in java.
 23. What is the file descriptor<br/>
 24. Can we monitor a directory for adding new files in Java<br/>
 25. What is a memory-mapped file in Java<br/>
-26.What is difference between getPath(), getCanonicalPath() and getAbsolutePath() in Java<br/>
+26. What is difference between getPath(), getCanonicalPath() and getAbsolutePath() in Java<br/>
 27. How do you convert an InputStream to ByteArray in Java<br/>
 
 
@@ -730,3 +729,25 @@ Will an Object Garbage Collected whereas it’s Still Reachable<br/>
 When will an object’s Finalize() method Invoke<br/>
 Will garbage collection guarantee that a program won’t run out of memory<br/>
 Is a class subclass of itself<br/>
+
+
+## JUnit
+
+1. Explain what is JUnit?
+2. Mention what is the difference between JUnit and TestNG?
+3. Mention different methods of exception handling in JUnit?
+4. Explain who should use JUnit – a developer or tester? Why you use JUnit to test your code?
+5. What are the important JUnit annotations?
+6. What are the features of JUnit?
+7. What are the useful JUnit extensions?
+8. Explain what is Unit Test Case?
+9. Explain how you can write a simple JUnit test case?
+10. Explain what is meant by ignoring test in JUnit?
+11. What are the top advantages of writing unit tests? 
+12. How is code cyclomatic complexity related to unit tests?
+13. What is mocking and stubbing? Did you use any mocking framework? 
+14. What is unit testing method-naming convention that you follow? 
+15. What do following JUnit test annotations mean? 
+16. Why does JUnit only report the first failure in a single test
+17. What is Junit Test Fixture
+18. 
