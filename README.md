@@ -750,4 +750,17 @@ Is a class subclass of itself<br/>
 15. What do following JUnit test annotations mean? 
 16. Why does JUnit only report the first failure in a single test
 17. What is Junit Test Fixture
-18. 
+
+
+## TestNG
+1. What are the types of annotations used in TestNG
+2. What are the categories of annotations in TestNG
+3. What are the types of reports generated in TestNG by default
+4. What are priorities in TestNG and How would you set priorities
+5. What is the importance of groups in TestNG and How do you define groups 
+6. What are the different types of assert in TestNG
+7. What is meant by dependency in TestNG
+8. What is meant by invocationCount in TestNG
+9. How is exception handling done in TestNG
+10. Can we disable a test in TestNG? If so, explain how
+11. Why is the reporter class used in TestNG
