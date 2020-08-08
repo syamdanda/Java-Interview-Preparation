@@ -733,23 +733,23 @@ Is a class subclass of itself<br/>
 
 ## JUnit
 
-1. Explain what is JUnit?
-2. Mention what is the difference between JUnit and TestNG?
-3. Mention different methods of exception handling in JUnit?
-4. Explain who should use JUnit – a developer or tester? Why you use JUnit to test your code?
-5. What are the important JUnit annotations?
-6. What are the features of JUnit?
-7. What are the useful JUnit extensions?
-8. Explain what is Unit Test Case?
-9. Explain how you can write a simple JUnit test case?
-10. Explain what is meant by ignoring test in JUnit?
-11. What are the top advantages of writing unit tests? 
-12. How is code cyclomatic complexity related to unit tests?
-13. What is mocking and stubbing? Did you use any mocking framework? 
-14. What is unit testing method-naming convention that you follow? 
-15. What do following JUnit test annotations mean? 
-16. Why does JUnit only report the first failure in a single test
-17. What is Junit Test Fixture
+1. Explain what is JUnit <br/>
+2. Mention what is the difference between JUnit and TestNG <br/>
+3. Mention different methods of exception handling in JUnit <br/>
+4. Explain who should use JUnit – a developer or tester? Why you use JUnit to test your code <br/>
+5. What are the important JUnit annotations <br/>
+6. What are the features of JUnit <br/>
+7. What are the useful JUnit extensions <br/>
+8. Explain what is Unit Test Case <br/>
+9. Explain how you can write a simple JUnit test case <br/>
+10. Explain what is meant by ignoring test in JUnit <br/>
+11. What are the top advantages of writing unit tests <br/> 
+12. How is code cyclomatic complexity related to unit tests <br/>
+13. What is mocking and stubbing? Did you use any mocking framework <br/>
+14. What is unit testing method-naming convention that you follow <br/>
+15. What do following JUnit test annotations mean <br/>
+16. Why does JUnit only report the first failure in a single test <br/>
+17. What is Junit Test Fixture <br/>
 
 
 ## TestNG
