@@ -753,16 +753,25 @@ Is a class subclass of itself<br/>
 
 
 ## TestNG
-1. What are the types of annotations used in TestNG
-2. What are the categories of annotations in TestNG
-3. What are the types of reports generated in TestNG by default
-4. What are priorities in TestNG and How would you set priorities
-5. What is the importance of groups in TestNG and How do you define groups 
-6. What are the different types of assert in TestNG
-7. What is meant by dependency in TestNG
-8. What is meant by invocationCount in TestNG
-9. How is exception handling done in TestNG
-10. Can we disable a test in TestNG? If so, explain how
-11. Why is the reporter class used in TestNG
+1. What are the types of annotations used in TestNG <br/>
+2. What are the categories of annotations in TestNG <br/>
+3. What are the types of reports generated in TestNG by default <br/>
+4. What are priorities in TestNG and How would you set priorities <br/>
+5. What is the importance of groups in TestNG and How do you define groups  <br/>
+6. What are the different types of assert in TestNG <br/>
+7. What is meant by dependency in TestNG <br/>
+8. What is meant by invocationCount in TestNG <br/>
+9. How is exception handling done in TestNG <br/>
+10. Can we disable a test in TestNG? If so, explain how <br/>
+11. Why is the reporter class used in TestNG <br/>
 
 ## MockitIO
+1. Why do we need mocking <br/>
+2. Difference between doReturn and thenReturn
+3. When and why should a spy be used
+4. Why can’t static methods be mocked using Mockito
+5. What’s the need to verify that the mock was called
+6. What is a good testable code
+7. What are the limitations of Mockito
+8. Which frameworks can support mocking Private and Static methods
+9. 
