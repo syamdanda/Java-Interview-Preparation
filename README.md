@@ -767,11 +767,11 @@ Is a class subclass of itself<br/>
 
 ## MockitIO
 1. Why do we need mocking <br/>
-2. Difference between doReturn and thenReturn
-3. When and why should a spy be used
-4. Why can’t static methods be mocked using Mockito
-5. What’s the need to verify that the mock was called
-6. What is a good testable code
-7. What are the limitations of Mockito
-8. Which frameworks can support mocking Private and Static methods
+2. Difference between doReturn and thenReturn <br/>
+3. When and why should a spy be used <br/>
+4. Why can’t static methods be mocked using Mockito <br/>
+5. What’s the need to verify that the mock was called <br/>
+6. What is a good testable code <br/>
+7. What are the limitations of Mockito <br/>
+8. Which frameworks can support mocking Private and Static methods <br/>
 9. 
