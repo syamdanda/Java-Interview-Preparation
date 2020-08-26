@@ -301,7 +301,6 @@
 <p>
 #### Answer: 
 Class is a user defined structure/datatype in java.
-
 </p>
 </details>
 2. What is a class field / attribute <br/>
@@ -774,4 +773,3 @@ Is a class subclass of itself<br/>
 6. What is a good testable code <br/>
 7. What are the limitations of Mockito <br/>
 8. Which frameworks can support mocking Private and Static methods <br/>
-9. 
