@@ -1,7 +1,5 @@
 # Interview Preparation Checklist - Java Developer
 
-# Java
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Concept</b></th>
