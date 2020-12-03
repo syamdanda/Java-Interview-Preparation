@@ -694,23 +694,23 @@ What is the basic difference between Mono and Flux in Spring <br/>
 
 ## Streams
 
-What is the difference between Collection and Stream <br/>
-What is the difference between limit and skip <br/>
-What does the map() function do? why you use it <br/>
-What does the filter() method do? when you use it <br/>
-What does the flatmap() function do? why you need it <br/>
-What is difference between flatMap() and map() functions <br/>
-What is the difference between intermediate and terminal operations on Stream <br/>
-What does the peek() method does? When should you use it <br/>
-What do you mean by saying Stream is lazy <br/>
-What is a functional interface in Java 8 <br/>
-What is the difference between Iterator and Spliterator <br/>
-What is the difference between a normal and functional interface in Java <br/>
-What is difference between findFirst() and findAny() method <br/>
-What is a Predicate interface <br/>
-What is the difference between Java 8 Internal and External Iteration <br/>
-Can you convert an array to Stream? How <br/>
-What is the parallel Stream? How can you get a parallel stream from a List <br/>
+1. What is the difference between Collection and Stream <br/>
+2. What is the difference between limit and skip <br/>
+3. What does the map() function do? why you use it <br/>
+4. What does the filter() method do? when you use it <br/>
+5. What does the flatmap() function do? why you need it <br/>
+6. What is difference between flatMap() and map() functions <br/>
+7. What is the difference between intermediate and terminal operations on Stream <br/>
+8. What does the peek() method does? When should you use it <br/>
+9. What do you mean by saying Stream is lazy <br/>
+10. What is a functional interface in Java 8 <br/>
+11. What is the difference between Iterator and Spliterator <br/>
+12. What is the difference between a normal and functional interface in Java <br/>
+13. What is difference between findFirst() and findAny() method <br/>
+14. What is a Predicate interface <br/>
+15. What is the difference between Java 8 Internal and External Iteration <br/>
+16. Can you convert an array to Stream? How <br/>
+17. What is the parallel Stream? How can you get a parallel stream from a List <br/>
 
 
 
