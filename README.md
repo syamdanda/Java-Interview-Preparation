@@ -3,8 +3,8 @@
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Concept</b></th>
-    <th class="tg-yw4l"><b>Start Date</b></th>
-    <th class="tg-yw4l"><b>End Date</b></th>
+    <th class="tg-yw4l"><b>Total Questions</b></th>
+    <th class="tg-yw4l"><b>Total Answers</b></th>
     <th class="tg-yw4l"><b>Status</b></th>
     <th class="tg-yw4l"><b>Comments</b></th>
   </tr>
