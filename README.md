@@ -10,14 +10,14 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Java Basics</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">26</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr> 
   <tr>
     <td class="tg-yw4l">Oops</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">106</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
