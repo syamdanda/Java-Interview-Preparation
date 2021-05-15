@@ -21,13 +21,13 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Exception Handling</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">42</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Collections</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">71</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
