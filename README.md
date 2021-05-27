@@ -33,13 +33,13 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Multi-threading</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">74</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Files & I/O</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">27</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
