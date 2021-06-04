@@ -610,13 +610,13 @@ Class is a user defined structure/datatype in java.
 
 ## Lambda Expressions
 
-What is lambda expression <br/>
-What are the main characteristics of the Lambda Function <br/>
-Why lambda expression is called a poly expression <br/>
-What is block lambda expression <br/>
-How do you use lambda expression with functional interface <br/>
-Explain target typing with an example <br/>
-How target type is inferred for the lambda expression <br/>
+1. What is lambda expression <br/>
+2. What are the main characteristics of the Lambda Function <br/>
+3. Why lambda expression is called a poly expression <br/>
+4. What is block lambda expression <br/>
+5. How do you use lambda expression with functional interface <br/>
+6. Explain target typing with an example <br/>
+7. How target type is inferred for the lambda expression <br/>
 
 
 
