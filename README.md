@@ -682,10 +682,10 @@ What is the basic difference between Mono and Flux in Spring <br/>
 
 
 ## Misc.
-How to use observer and Observable<br/>
-What problem is solved by the Strategy pattern in Java<br/>
-Which OOP concept Decorator design Pattern is based upon<br/>
-What is the difference between Decorator, Proxy and Adapter pattern in Java<br/>
+1. How to use observer and Observable<br/>
+2. What problem is solved by the Strategy pattern in Java<br/>
+3. Which OOP concept Decorator design Pattern is based upon<br/>
+4. What is the difference between Decorator, Proxy and Adapter pattern in Java<br/>
 When to use the Singleton design pattern in Java<br/>
 What is the difference between State and Strategy Patterns<br/>
 What is the Output From System.out.println(“hello”+null);<br/>
