@@ -354,7 +354,7 @@ Class is a user defined structure/datatype in java.
 83. How can I access the local variable of a method from an anonymous class declared in the body of this method. Are there any restrictions for such a variable <br/>
 84. How is any custom class related to the Object class <br/>
 85. Tell us about each of the methods of the Object class. <br/>
-​​86. What is the equals () method. How it differs from the operation ==. <br/>
+86. What is the equals () method. How it differs from the operation ==. <br/>
 87. If you want to override equals (), which conditions must be satisfied for the overridden method <br/>
 88. If equals () is overridden, are there any other methods that should be overridden <br/>
 89. What are the features of the hashCode and equals methods <br/> 
@@ -465,7 +465,7 @@ Class is a user defined structure/datatype in java.
 37. Differentiate between ArrayList and LinkedList <br/>
 38. Differentiate between Comparable and Comparator <br/>
 39. Differentiate between List and Set <br/>
-40.  Differentiate between Set and Map <br/>
+40. Differentiate between Set and Map <br/>
 41. Differentiate between List and Map <br/>
 42. Differentiate between Queue and Stack <br/>
 43. Differentiate between PriorityQueue and TreeSet <br/>
@@ -606,6 +606,11 @@ Class is a user defined structure/datatype in java.
 25. What is a memory-mapped file in Java<br/>
 26. What is difference between getPath(), getCanonicalPath() and getAbsolutePath() in Java<br/>
 27. How do you convert an InputStream to ByteArray in Java<br/>
+28. What Is The Necessity Of Two Types Of Streams – Byte Streams And Character Streams<br/>
+29. Which You Feel Better To Use – Byte Streams Or Character Streams<br/>
+30. What System.out.println()<br/>
+31. What Are Piped Streams and why we need them<br/>
+
 
 
 ## Lambda Expressions
