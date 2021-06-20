@@ -39,19 +39,19 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Files & I/O</td>
-    <td class="tg-yw4l">27</td>
+    <td class="tg-yw4l">32</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Lambda Expressions</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">23</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Functional Programming</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Functional Interfaces</td>
+    <td class="tg-yw4l">13</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -610,6 +610,7 @@ Class is a user defined structure/datatype in java.
 29. Which You Feel Better To Use – Byte Streams Or Character Streams<br/>
 30. What System.out.println()<br/>
 31. What Are Piped Streams and why we need them<br/>
+32. What is rhw difference between I/O streams, Byte Streams, character streams, buffer streams, object streams and Data streams<br/>
 
 
 
@@ -622,24 +623,46 @@ Class is a user defined structure/datatype in java.
 5. How do you use lambda expression with functional interface <br/>
 6. Explain target typing with an example <br/>
 7. How target type is inferred for the lambda expression <br/>
+8. What Is a Method Reference<br/>
+9. What Is the Meaning of String::Valueof Expression<br/>
+10. How many parameters can a lambda expression have <br/>
+11. What are the three parts of a Lambda Expression? What is the type of Lambda Expression <br/>
+12. How can we write comparator as lambda expression <br/>
+13. How can we write callable as lambda expression <br/>
+14. How can we write runnable as lambda expression<br/>
+15. Can lambda expression throw exception? Is there any restriction in lambda expression exception handling <br/>
+16. Can lambda expressions be used to implement interfaces having default and static methods <br/>
+17. What is method reference in Java 8, Give an example and mention types of method reference <br/>
+18. What are the types of method reference & give. examples
+19. Do you need to specify the type for parameters in a lambda expression<br/>
+20. What is the compulsion in the Functional Interface definition<br/>
+21. What is the difference between Closure and Lambda in Java 8<br/>
+22. Does Java 8 Lambda supports recursive call<br/>
+23. What is difference between Lambda Expression and Anonymous class<br/>
+
+
+
+## Functional Interface
+
+1. What is functional interface annotation & What is SAM Interface <br/>
+2. What Are the Rules of Defining a Functional Interface<br/>
+3. Describe Some of the Functional Interfaces in the Standard Library<br/>
+4. Is it mandatory to mark functional interface with @FunctionalInterface annotation <br/>
+5. How do you use lambda expression with functional interface<br>
+6. What are Supplier and Consumer Functional interface <br/>
+7. Can we have a generic functional interface<br/>
+8. What is the link between Lambda Expressions and Functional Interface<br/>
+9. What are the similarities between Predicate and Function<br/>
+10. Can Java 8 default methods override equals, hashCode and toString<br/>
+11. categories of functional interfaces and list built-in Functional Interfaces<br/>
+12. Is it possible to create a custom functional interface in Java 8<br/>
+13. Differentiate between intermediate and terminal operations in Java 8<br/>
 
 
 
 
-## Functional Interface & Programming
 
-What is functional interface annotation & What is SAM Interface <br/>
-Is it mandatory to mark functional interface with @FunctionalInterface annotation <br/>
-How many parameters can a lambda expression have <br/>
-What are the three parts of a Lambda Expression? What is the type of Lambda Expression <br/>
-What is method reference in Java 8, Give an example and mention types of method reference <br/>
-Can lambda expressions be used to implement interfaces having default and static methods <br/>
-What are Supplier and Consumer Functional interface <br/>
-What is effective final in Java? What is variable capture <br/>
-How can we write comparator as lambda expression <br/>
-How can we write callable as lambda expression <br/>
-Can lambda expression throw exception? Is there any restriction in lambda expression exception handling <br/>
-What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Optional <br/>
+
 
 ## Reactive Programing
 
@@ -700,6 +723,8 @@ Will an Object Garbage Collected whereas it’s Still Reachable<br/>
 When will an object’s Finalize() method Invoke<br/>
 Will garbage collection guarantee that a program won’t run out of memory<br/>
 Is a class subclass of itself<br/>
+What is effective final in Java? What is variable capture <br/>
+What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Optional <br/>
 
 
 ## JUnit
