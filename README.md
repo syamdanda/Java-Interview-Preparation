@@ -661,23 +661,31 @@ Class is a user defined structure/datatype in java.
 
 
 
-
-
-
 ## Reactive Programing
 
-What is reactive programming <br/>
-What are the important characteristics of the Reactive system <br/>
-What is data streams <br/>
-What is Asynchronus feature in reactive programming <br/>
-What do you mean by non-blocking <br/>
-Explain about Back-pressure concept in reactive programming <br/>
-How do you handle exceptions in Reactive Programming <br/>
-What are the benefits of Reactive Programming <br/>
-Which framework can be used for reactive programming in spring <br/>
-Define Mono and Flux types <br/>
-What are the common features of Mono and Flux <br/>
-What is the basic difference between Mono and Flux in Spring <br/>
+1. What is reactive programming <br/>
+2. What are the important characteristics of the Reactive system <br/>
+3. What is data stream <br/>
+4. What is Asynchronus feature in reactive programming <br/>
+5. What is the Reactive Manifesto<br/>
+6. Name building blocks of Reactive Programming
+7. What do you mean by non-blocking <br/>
+8. Explain about Back-pressure concept in reactive programming <br/>
+9. How do you handle exceptions in Reactive Programming <br/>
+10. What are the benefits of Reactive Programming <br/>
+11. Which framework can be used for reactive programming in spring <br/>
+12. Define Mono and Flux types <br/>
+13. What are the common features of Mono and Flux <br/>
+14. What is the basic difference between Mono and Flux in Spring <br/>
+15. Describe Difference Between Reactive Programming vs Imperative Programming<br/>
+16. Imperative vs Functional vs Reactive Programming. Explain<br/>
+17. What is the difference between Promises and Observable<br/>
+18. What is Difference Between Observer Pattern and Reactive Programming<br/>
+19. What is the difference between Reactive and Functional-Reactive programming<br/>
+20. What is Back Pressure<br/>
+21. What is Elasticity in contrast to Scalability<br/>
+
+
 
 
 ## Serverless Arch.
