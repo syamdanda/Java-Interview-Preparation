@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Reactive Programing</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">21</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Streams</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">17</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -81,13 +81,13 @@
   </tr>
   <tr>
     <td class="tg-yw4l">JUnit</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">17</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">TestNG</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">11</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
