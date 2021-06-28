@@ -81,19 +81,19 @@
   </tr>
   <tr>
     <td class="tg-yw4l">JUnit</td>
-    <td class="tg-yw4l">17</td>
+    <td class="tg-yw4l">36</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">TestNG</td>
-    <td class="tg-yw4l">11</td>
+    <td class="tg-yw4l">41</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">MockitIO</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">19</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -753,30 +753,91 @@ What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Opt
 15. What do following JUnit test annotations mean <br/>
 16. Why does JUnit only report the first failure in a single test <br/>
 17. What is Junit Test Fixture <br/>
+18. What is JUnitCore class<nr>
+19. What do you mean by parameterized tests in JUnit<br/>
+20. What is Parameterized test in JUnit and what all annotations used for this<br/>
+21. What is a Unit Test Case<br/>
+22. In Java, assert is a keyword. Won’t this conflict with JUnit’sassert() method<br/>
+23. What’s the use of @Rule annotation<br/>
+24. What are JUnit classes? List some of them<br/>
+25. Can we change return type of JUnit test method from void to some other type<br/>
+26. Is it possible to pass command-line arguments to a test execution<br/>
+27. What happens if a Junit test method is declared as “private”<br/>
+28. How do you test a “protected” method<br/>
+29. How do you test a “private” method<br/>
+30. What happens if a test method throws an exception<br/>
+31. When objects are garbage collected after a test is executed<br/>
+32. How do you ignore certain test methods in the JUnit Test class<br/>
+33. Can you test a Java method for timeout using JUnit<br/>
+34. What is the difference between Stub and Mock in Unit testing<br/>
+35. What are the useful JUnit extensions<br/>
+36. What does XMLUnit provide<br/>
 
 
 ## TestNG
-1. What are the types of annotations used in TestNG <br/>
+1. What is TestNG and What are the types of annotations used in TestNG <br/>
 2. What are the categories of annotations in TestNG <br/>
 3. What are the types of reports generated in TestNG by default <br/>
 4. What are priorities in TestNG and How would you set priorities <br/>
 5. What is the importance of groups in TestNG and How do you define groups  <br/>
 6. What are the different types of assert in TestNG <br/>
-7. What is meant by dependency in TestNG <br/>
+7. What is meant by dependency and how many types of dependencies are there in TestNG <br/>
 8. What is meant by invocationCount in TestNG <br/>
 9. How is exception handling done in TestNG <br/>
 10. Can we disable a test in TestNG? If so, explain how <br/>
 11. Why is the reporter class used in TestNG <br/>
+12. What are the advantages of TestNg<br/>
+13. How do you trigger and execute the TestNg test Script<br/>
+14. Mention the TestNg annotations execution sequence <br/>
+15. What are listeners and mention different listeners and How can you specify them<br/>
+16. What is the difference between @BeforeTest and #@BeforeMethod annotation<br/>
+17. What is the advantage of using the testng.xml file<br/>
+18. How to use TestNG Reporter Class for the log generation<br/>
+19. How to achieve dependency injection via TestNg XML<br/>
+20. Difference between Hard assert and soft assert in TestNg, how to write soft assertions<br/>
+21. How to achieve the Expected Exception Test with TestNG<br/>
+22. How to disable test execution for a test script<br/> 
+23. What is the use of threadPoolSize attribute with the @Test annotation<br/>
+24. What does alwaysRun attributes do<br/>
+25. What are listeners in TestNG<br/>
+26. Mention the differences between @Factory and @Dataprovider annotations in TestNg<br/>
+27. What is the Timeout Test in TestNg<br/>
+28. How to do exception handling in TestNG<br/>
+29. What is default value for the TestNG Priority<br/>
+30. How to use regular expression in TestNG groups<br/>
+31. How to re-run TestNg Failed Tests using Auto Retry mechanism<br/>
+32. How to achieve TestNG itestlistener implementation?<br/>
+33. How to Implement testng iAnnotationtransformer<br/>
+34. List out the advantages of TestNG over Junit<br/>
+35. what are priority, verbose, thread-count, threadPoolSize, and invocationCount means<br/>
+36. What is Group Test in TestNG<br/>
+37. What are Default Group, Partial Groups, and MetaGroups in TestNG<br/>
+38. What is @DataProvider<br/>
+39. How you can run the JUnit tests using TestNG<br/>
+40. What order the TestNg follows if there exists multiple methods in the test class and How to run your Test scripts in parallel<br/>
+41. Describe the similarities and difference between JUnit and TestNG unit testing frameworks<br/>
+
 
 ## MockitIO
 1. Why do we need mocking <br/>
 2. Difference between doReturn and thenReturn <br/>
 3. When and why should a spy be used <br/>
 4. Why can’t static methods be mocked using Mockito <br/>
-5. What’s the need to verify that the mock was called <br/>
+5. How to verify the mocks & What’s the need to verify that the mock was called <br/>
 6. What is a good testable code <br/>
 7. What are the limitations of Mockito <br/>
 8. Which frameworks can support mocking Private and Static methods <br/>
+9. What is the use of the mock() method<br/>
+10. How do you mock static methods<br/>
+11. List some Mockito Annotations<br/>
+12. What should I do if I want to make sure that a particular method of a class is getting called <br/>
+13. How to mock setter methods in mockito<br/>
+14. How to mock methods with Mockito<br/>
+15. How to mock void methods with Mockito<br/>
+16. Difference between Assert and Verify<br/>
+17. What is the difference between mocking and spying<br/>
+18. Difference between @Mock and @InjectMocks<br/>
+19. What is PowerMock and EasyMock<br/>
 
 ## Spring
 
