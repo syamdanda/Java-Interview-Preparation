@@ -839,10 +839,104 @@ What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Opt
 18. Difference between @Mock and @InjectMocks<br/>
 19. What is PowerMock and EasyMock<br/>
 
+
 ## Spring
+1. What is Spring Framework? What are it’s main modules<br/>
+2. What are the different components of a Spring application<br/>
+3. What are the benefits of using Spring Framework<br/>
+4. What is the Spring Model-View-Controller (MVC) framework<br/>
+5. What are the parts of Spring MVC framework<br/>
+6. What are the different parts of the DispatcherServlet<br/>
+7. What is DispatcherServlet and ContextLoaderListener<br/>
+8. What is ViewResolver in Spring<br/>
+9. What is a MultipartResolver and when it’s used<br/>
+10. List different view resolvers<br/>
+11. How to get ServletContext and ServletConfig object in a Spring Bean<br/>
+12. What is the configuration file for Spring<br/>
+13. Can we have multiple Spring configuration files<br/>
+14. How can we use Spring to create Restful Web Service returning JSON response<br/>
+15. How is the configuration metadata provided to the Spring container<br/>
+16. What is Inversion of Control (IoC) and Dependency Injection<br/>
+17. Explain IoC and types of IOC in Spring Framework<br/>
+18. List some of the benefits of IoC<br/>
+19. Difference between BeanFactory and ApplicationContext<br/>
+20. What are the common implementations of the ApplicationContext<br/>
+21. What are Spring beans and explain it's life cycle<br/>
+22. What are different Spring Bean Scopes<br/>
+23. Are Singleton beans thread safe in Spring Framework<br/>
+24. Does Spring Bean provide thread safety<br/>
+25. What are inner beans in Spring<br/>
+26. What is bean auto wiring<br/>
+27. Explain different modes of bean autowiring<br/>
+28. How can you inject a Java Collection in Spring<br/>
+29. How to inject a java.util.Properties into a Spring Bean<br/>
+30. Difference between FileSystemResource and ClassPathResource<br/>
+31. In how many ways, you can configure Spring into our application<br/>
+32. How do you turn on annotation based autowiring<br/>
+33. Please explain the various annotations supported by Spring with example<br/>
+34. What’s the difference between @Component, @Controller, @Repository & @Service annotations in Spring<br/>
+35. Difference between constructor injection and setter injection<br/>
+36. How to handle exceptions in Spring MVC Framework<br/>
+37. What are the JSR-250 Annotations? Explain them<br/>
+38. What are the different types of events in spring framework<br/>
+39. Name some of the design patterns used in Spring Framework<br/>
+40. What is Spring MVC Interceptor and explain with an example on how to use it<br>
+41. Describe Spring DAO support<br/>
+42. What are the possible exceptions that can be thrown by Spring DAO classes<br/>
+43. What is the JDBC? Which classes are present in the Spring JDBC API<br/>
+44. How can you fetch records by spring JdbcTemplate<br/>
+45. What is the advantage of NamedParameterJdbcTemplate<br/>
+46. What is the advantage of SimpleJdbcTemplate<br/>
+47. How will you access Hibernate using Spring Framework<br/>
+48. Enumerate the types of transaction management supported by Spring<br/>
+49. How to achieve localization in Spring MVC applications<br/>
+50. How to validate form data in Spring Web MVC Framework<br/>
+51. Can you create a controller without using @Controller or @RestController annotations<br/>
+
 
 
 ## Spring AOP
+
+1. What is Spring AOP<br/>
+What are the AOP terminology<br/>
+What is Aspect, Advice, Pointcut, JointPoint and Advice Arguments in AOP<br/>
+Does spring framework support all JoinPoints<br/>
+What is Advice in Spring? Explain its various types<br/>
+Could you draw a comparison between concern and crosscutting concerns in Spring AOP<br/>
+What is a Pointcut, JoinPoint     <br/>
+What is a Proxy and When is the target object and proxy object the same<br/>
+
+
+What are the different AOP implementations<br/>
+What are the differences between Spring AOP and AspectJ AOP<br/>
+n Spring, what is Weaving<br/>
+
+
+## Spring Reactive
+1. What is Reactive Programming<br/>
+What are the benefits of Reactive Programming<br/>
+What are the important characteristics of the Reactive system<br/>
+Define Spring Webflux<br/>
+Define Mono and Flux types<br/>
+What is the difference and common between Mono and Flux in Spring<br/>
+Difference between the Web client and Webtestclient<br/>
+What Are the Disadvantages of Using Reactive Streams<br/>
+
+
+## Spring Boot
+What do you understand by the term 'Spring Boot'<br/>
+Explain the advantages of using Spring Boot for application development<br/>
+Differentiate between Spring and Spring Boot<br/>
+What are the features of Spring Boot<br/>
+What does @SpringBootApplication annotation do internally<br/>
+What is Spring Boot dependency management system<br/>
+Can we change the default port of the embedded Tomcat server in Spring boot<br/>
+Can you tell how to exclude any package without using the basePackages filter<br/>
+How to disable specific auto-configuration class<br/>
+Can the default web server in the Spring Boot application be disabled<br/>
+Can Spring Boot allow Spring MVC or Spring WebFlux in the same application<br/>
+Difference between Controller and RestController
+What are the differences between @RequestParam and @PathVariable annotations<br/>
 
 
 ## Spring Cloud
