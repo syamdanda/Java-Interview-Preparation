@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring boot</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">64</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -686,10 +686,6 @@ Class is a user defined structure/datatype in java.
 
 
 
-
-## Serverless Arch.
-
-
 ## Streams
 
 1. What is the difference between Collection and Stream <br/>
@@ -721,17 +717,17 @@ Class is a user defined structure/datatype in java.
 2. What problem is solved by the Strategy pattern in Java<br/>
 3. Which OOP concept Decorator design Pattern is based upon<br/>
 4. What is the difference between Decorator, Proxy and Adapter pattern in Java<br/>
-When to use the Singleton design pattern in Java<br/>
-What is the difference between State and Strategy Patterns<br/>
-What is the Output From System.out.println(“hello”+null);<br/>
-What are E and Pi<br/>
-If an object is garbage collected, will it become reachable again<br/>
-Will an Object Garbage Collected whereas it’s Still Reachable<br/>
-When will an object’s Finalize() method Invoke<br/>
-Will garbage collection guarantee that a program won’t run out of memory<br/>
-Is a class subclass of itself<br/>
-What is effective final in Java? What is variable capture <br/>
-What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Optional <br/>
+5. When to use the Singleton design pattern in Java<br/>
+6. What is the difference between State and Strategy Patterns<br/>
+7. What is the Output From System.out.println(“hello”+null);<br/>
+8. What are E and Pi<br/>
+9. If an object is garbage collected, will it become reachable again<br/>
+10. Will an Object Garbage Collected whereas it’s Still Reachable<br/>
+11. When will an object’s Finalize() method Invoke<br/>
+12. Will garbage collection guarantee that a program won’t run out of memory<br/>
+13. Is a class subclass of itself<br/>
+14. What is effective final in Java? What is variable capture <br/>
+15. What is Optional in Java 8? What is the use of Optional?Advantages of Java 8 Optional <br/>
 
 
 ## JUnit
@@ -914,29 +910,94 @@ n Spring, what is Weaving<br/>
 
 ## Spring Reactive
 1. What is Reactive Programming<br/>
-What are the benefits of Reactive Programming<br/>
-What are the important characteristics of the Reactive system<br/>
-Define Spring Webflux<br/>
-Define Mono and Flux types<br/>
-What is the difference and common between Mono and Flux in Spring<br/>
-Difference between the Web client and Webtestclient<br/>
-What Are the Disadvantages of Using Reactive Streams<br/>
+2. What are the benefits of Reactive Programming<br/>
+3. What are the important characteristics of the Reactive system<br/>
+4. Define Spring Webflux<br/>
+5. Define Mono and Flux types<br/>
+6. What is the difference and common between Mono and Flux in Spring<br/>
+7. Difference between the Web client and Webtestclient<br/>
+8. What Are the Disadvantages of Using Reactive Streams<br/>
 
 
 ## Spring Boot
-What do you understand by the term 'Spring Boot'<br/>
-Explain the advantages of using Spring Boot for application development<br/>
-Differentiate between Spring and Spring Boot<br/>
-What are the features of Spring Boot<br/>
-What does @SpringBootApplication annotation do internally<br/>
-What is Spring Boot dependency management system<br/>
-Can we change the default port of the embedded Tomcat server in Spring boot<br/>
-Can you tell how to exclude any package without using the basePackages filter<br/>
-How to disable specific auto-configuration class<br/>
-Can the default web server in the Spring Boot application be disabled<br/>
-Can Spring Boot allow Spring MVC or Spring WebFlux in the same application<br/>
-Difference between Controller and RestController
-What are the differences between @RequestParam and @PathVariable annotations<br/>
+1. What do you understand by the term 'Spring Boot'<br/>
+2. Explain the advantages of using Spring Boot for application development<br/>
+3. Can you explain what happens in the background when a Spring Boot Application is “Run as Java Application”<br/>
+4. Differentiate between Spring and Spring Boot<br/>
+5. What makes Spring Boot superior to JAX-RS<br/>
+6. What are the different Spring Boot Components<br/>
+7. What are the different options for creating the Spring Boot application<br/>
+8. What is Spring Boot CLI<br/>
+9. What are the features of Spring Boot<br/>
+10. What is Spring Boot Starters and What Spring Boot starters are available<br/>
+11. What does @SpringBootApplication annotation do internally<br/>
+12. What are the differences between @SpringBootApplication and @EnableAutoConfiguration annotation<br/>
+13. What is Auto-Configuration in Spring Boot<br/>
+14. How to register a custom auto-configuration<br/>
+15. What is Spring Boot dependency management system<br/>
+16. Can we change the default port of the embedded Tomcat server in Spring boot<br/>
+17. Can you tell how to exclude any package without using the basePackages filter<br/>
+18. How to disable specific auto-configuration class<br/>
+19. Can the default web server in the Spring Boot application be disabled<br/>
+20. Can Spring Boot allow Spring MVC or Spring WebFlux in the same application<br/>
+21. Difference between Controller and RestController<br/>
+22. What are the embedded containers supported by Spring Boot<br/>
+23. What are the differences between @RequestParam and @PathVariable annotations<br/>
+24. What is the Spring Boot Initilizr and it's advantages<br/>
+25. How can I reload my Spring Boot changes without restarting the server<br/>
+26. What annotations are used to create an Interceptor<br/>
+27. How to implement interceptors with Spring Boot<br/>
+28. What is the Spring Boot Actuator<br/>
+29. How can we create a custom endpoint in Spring Boot Actuator<br/>
+30. What is a shutdown in the actuator<br/>
+31. How to disable Actuator endpoint security in Spring Boot<br/>
+32. What logging support provided by Spring Boot? How can we control logging level in Spring Boot<br/>
+33. How to implement security for Spring boot application<br/>
+34. How to configure database using Spring Boot<br/>
+35. What is the use of YAML in Spring Boot<br/>
+36. How to include custom static content in Spring Boot application (e.g custom JS code)<br/>
+37. How to use a profile with Spring Boot<br/>
+38. How to set the active profile in Spring Boot<br/>
+39. How to generate a WAR file with Spring Boot<br/>
+40. How to disable the web server configuration in your Spring Boot application<br/>
+41. How to configure and enable SSL for your Spring Boot application<br/>
+42. How the ApplicationContext created by Spring Boot<br/>
+43. How can we externalize SpringApplication configuration<br/>
+44. How to handle exceptions in spring boot<br/>
+45. @ExceptionHandler in SPringboot<br/>
+46. What is Spring Boot Admin<br/>
+47. Can we configure Spring Boot to use multiple data sources<br/>
+48. How to enable HTTP/2 support in Spring Boot<br/>
+49. What is CSRF attack? How to enable CSRF protection against it<br/>
+50. What is a Swagger in Spring Boot<br/>
+51. When will you use WebSockets? How to implement it using Spring Boot<br/>
+52. What is the use of starter POM in our Spring Boot application<br/>
+53. How to access a value defined in the application.properties file in Spring Boot<br/>
+54. What is relaxed binding in Spring Boot<br/>
+55. How to implement JWT authentication for Spring Boot Application<br/>
+56. What is Spring Batch? How do you implement it using Spring Boot<br/>
+57. How to implement Pagination and Sorting with Spring Boot, give an example<br/>
+58. What is caching? Have you used any caching framework with Spring Boot<br/>
+59. What is OAuth2? How to implement it using Spring Boot<br/>
+60. How to resolve whitelabel error page in spring boot application<br/>
+61. How to ignore null values in JSON response spring boot<br/>
+62. Where is the database connection information specified and how does it automatically connect to H2<br/>
+63. How to Tell an Auto-Configuration to Back Away When a Bean Exists<br/>
+64. What Does it Mean that Spring Boot Supports Relaxed Binding<br/>
 
 
-## Spring Cloud
+
+## Spring Cloud & Microservices
+What are Microservices<br/>
+What is Spring Cloud<br/>
+How to implement distributed logging for microservices<br/>
+What is Hashicorp Valut? How to use it with microservices<br/>
+
+
+## Spring Security
+
+
+
+
+## Spring Batch
+
