@@ -901,6 +901,7 @@ What is Advice in Spring? Explain its various types<br/>
 Could you draw a comparison between concern and crosscutting concerns in Spring AOP<br/>
 What is a Pointcut, JoinPoint     <br/>
 What is a Proxy and When is the target object and proxy object the same<br/>
+Define Run-time AOP vs Compile-time AOP<br/>
 
 
 What are the different AOP implementations<br/>
@@ -989,9 +990,53 @@ n Spring, what is Weaving<br/>
 
 ## Spring Cloud & Microservices
 What are Microservices<br/>
+Difference: SOA vs Microservices<br/>
+What are the different Microservices Design Patterns<br/>
+How do microservices communicate independently<br/>
+How to implement security for microservices<br/>
+What is an API Gateway and. How to implement API Gateway using Spring cloud<br/>
 What is Spring Cloud<br/>
+What are the advantages of using Spring Cloud<br/>
+What is Spring Cloud Gateway? What are its advantages over Netflix Zuul<br/>
+Explain the Circuit Breaker design pattern<br/>
+What is Spring Cloud Bus? Need for it<br/>
+What is Spring Cloud Data Flow? Need for it<br/>
+What is Netflix OSS<br/>
+What is Eureka in Netflix OSS bundle<br/>
+What is the purpose of @EnableDiscoveryClient annotation<br/>
+What is Zuul<br/>
+What are the different kinds of filters provided by Zuul<br/>
 How to implement distributed logging for microservices<br/>
 What is Hashicorp Valut? How to use it with microservices<br/>
+What does one mean by Service Registration and Discovery ? How is it implemented in Spring Cloud<br/>
+What is Load Balancing ? How is it implemented in Spring Cloud<br/>
+How to achieve server side load balancing using Spring Cloud<br/>
+In which business scenario to use Netflix Hystrix<br/>
+What is Netflix feign<br/>
+What is Hystrix? How does it implement Fault Tolerance<br/>
+Mention the uses of Eureka and Zookeeper<br/>
+What re the differences between Eureka and zookeeper<br/>
+What is Spring Cloud AWS<br/>
+What is Spring Cloud Commons and list key features provided in Spring Cloud Commons library<br/>
+What is the purpose of ServiceRegistey interface provided in Spring Cloud Commons library<br/>
+What are the key features provided in Spring Cloud Context library<br/>
+What is Spring Cloud Config<br/>
+What are the key server-side features provided in the Spring Cloud Config framework<br/>
+What are the key client-side features provided in the Spring Cloud Config framework<br/>
+What are Spring Cloud Connectors<br/>
+What is Spring Cloud Consul<br/>
+What is Spring Cloud Contract<br/>
+What is Spring Cloud Data Flow<br/>
+What is Spring Cloud Stream and list are the core building blocks of Spring Cloud Stream<br/>
+What external messaging systems does Spring Cloud Stream support<br/>
+What is Spring cloud sleuth<br/>
+What is Spring cloud security<br/>
+What is a service fuse? What is service degradation<br/>
+How does Spring Cloud Gateway Limit Request Payload Size<br/>
+What is the difference between SpringBoot and SpringCloud<br/>
+What is eureka’s self-protection mechanism<br/>
+The difference between Ribbon and Feign<br/>
+What are some common Spring cloud annotations<br/>
 
 
 ## Spring Security
@@ -1000,4 +1045,12 @@ What is Hashicorp Valut? How to use it with microservices<br/>
 
 
 ## Spring Batch
+1. Explain Spring Batch framework<br/>
+2. Explain the Spring Batch framework architecture<br/>
+3. How to configure Spring Batch with Spring Boot<br/>
+4. When to use Spring Batch<br/>
+5. How Spring Batch works<br/>
+6. How can we schedule a Spring Batch Job<br/>
+7. What is Tasklet in Spring Batch<br/>
+
 
