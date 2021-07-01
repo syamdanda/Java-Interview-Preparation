@@ -62,12 +62,6 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Serverless Arch.</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">Streams</td>
     <td class="tg-yw4l">17</td>
     <td class="tg-yw4l"></td>
@@ -99,26 +93,31 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">51</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <tr>
     <td class="tg-yw4l">Spring AOP</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Spring Cloud</td>
+    <td class="tg-yw4l">Spring Reactive</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Spring Cloud Config Server</td>
+    <td class="tg-yw4l">Spring boot</td>
+    <td class="tg-yw4l">64</td>
     <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Spring Cloud & Microservices</td>
+    <td class="tg-yw4l">48</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -135,13 +134,7 @@
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Spring boot</td>
-    <td class="tg-yw4l">64</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Hystrix</td>
+    <td class="tg-yw4l">Maven</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
@@ -172,12 +165,6 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Kafka</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Micro-services Architecture</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
@@ -989,54 +976,54 @@ n Spring, what is Weaving<br/>
 
 
 ## Spring Cloud & Microservices
-What are Microservices<br/>
-Difference: SOA vs Microservices<br/>
-What are the different Microservices Design Patterns<br/>
-How do microservices communicate independently<br/>
-How to implement security for microservices<br/>
-What is an API Gateway and. How to implement API Gateway using Spring cloud<br/>
-What is Spring Cloud<br/>
-What are the advantages of using Spring Cloud<br/>
-What is Spring Cloud Gateway? What are its advantages over Netflix Zuul<br/>
-Explain the Circuit Breaker design pattern<br/>
-What is Spring Cloud Bus? Need for it<br/>
-What is Spring Cloud Data Flow? Need for it<br/>
-What is Netflix OSS<br/>
-What is Eureka in Netflix OSS bundle<br/>
-What is the purpose of @EnableDiscoveryClient annotation<br/>
-What is Zuul<br/>
-What are the different kinds of filters provided by Zuul<br/>
-How to implement distributed logging for microservices<br/>
-What is Hashicorp Valut? How to use it with microservices<br/>
-What does one mean by Service Registration and Discovery ? How is it implemented in Spring Cloud<br/>
-What is Load Balancing ? How is it implemented in Spring Cloud<br/>
-How to achieve server side load balancing using Spring Cloud<br/>
-In which business scenario to use Netflix Hystrix<br/>
-What is Netflix feign<br/>
-What is Hystrix? How does it implement Fault Tolerance<br/>
-Mention the uses of Eureka and Zookeeper<br/>
-What re the differences between Eureka and zookeeper<br/>
-What is Spring Cloud AWS<br/>
-What is Spring Cloud Commons and list key features provided in Spring Cloud Commons library<br/>
-What is the purpose of ServiceRegistey interface provided in Spring Cloud Commons library<br/>
-What are the key features provided in Spring Cloud Context library<br/>
-What is Spring Cloud Config<br/>
-What are the key server-side features provided in the Spring Cloud Config framework<br/>
-What are the key client-side features provided in the Spring Cloud Config framework<br/>
-What are Spring Cloud Connectors<br/>
-What is Spring Cloud Consul<br/>
-What is Spring Cloud Contract<br/>
-What is Spring Cloud Data Flow<br/>
-What is Spring Cloud Stream and list are the core building blocks of Spring Cloud Stream<br/>
-What external messaging systems does Spring Cloud Stream support<br/>
-What is Spring cloud sleuth<br/>
-What is Spring cloud security<br/>
-What is a service fuse? What is service degradation<br/>
-How does Spring Cloud Gateway Limit Request Payload Size<br/>
-What is the difference between SpringBoot and SpringCloud<br/>
-What is eureka’s self-protection mechanism<br/>
-The difference between Ribbon and Feign<br/>
-What are some common Spring cloud annotations<br/>
+1. What are Microservices<br/>
+2. Difference: SOA vs Microservices<br/>
+3. What are the different Microservices Design Patterns<br/>
+4. How do microservices communicate independently<br/>
+5. How to implement security for microservices<br/>
+6. What is an API Gateway and. How to implement API Gateway using Spring cloud<br/>
+7. What is Spring Cloud<br/>
+8. What are the advantages of using Spring Cloud<br/>
+9. What is Spring Cloud Gateway? What are its advantages over Netflix Zuul<br/>
+10. Explain the Circuit Breaker design pattern<br/>
+11. What is Spring Cloud Bus? Need for it<br/>
+12. What is Spring Cloud Data Flow? Need for it<br/>
+13. What is Netflix OSS<br/>
+14. What is Eureka in Netflix OSS bundle<br/>
+15. What is the purpose of @EnableDiscoveryClient annotation<br/>
+16. What is Zuul<br/>
+17. What are the different kinds of filters provided by Zuul<br/>
+18. How to implement distributed logging for microservices<br/>
+19. What is Hashicorp Valut? How to use it with microservices<br/>
+20. What does one mean by Service Registration and Discovery ? How is it implemented in Spring Cloud<br/>
+21. What is Load Balancing ? How is it implemented in Spring Cloud<br/>
+22. How to achieve server side load balancing using Spring Cloud<br/>
+23. In which business scenario to use Netflix Hystrix<br/>
+24. What is Netflix feign<br/>
+25. What is Hystrix? How does it implement Fault Tolerance<br/>
+26. Mention the uses of Eureka and Zookeeper<br/>
+27. What re the differences between Eureka and zookeeper<br/>
+28. What is Spring Cloud AWS<br/>
+29. What is Spring Cloud Commons and list key features provided in Spring Cloud Commons library<br/>
+30. What is the purpose of ServiceRegistey interface provided in Spring Cloud Commons library<br/>
+31. What are the key features provided in Spring Cloud Context library<br/>
+32. What is Spring Cloud Config<br/>
+33. What are the key server-side features provided in the Spring Cloud Config framework<br/>
+34. What are the key client-side features provided in the Spring Cloud Config framework<br/>
+35. What are Spring Cloud Connectors<br/>
+36. What is Spring Cloud Consul<br/>
+37. What is Spring Cloud Contract<br/>
+38. What is Spring Cloud Data Flow<br/>
+39. What is Spring Cloud Stream and list are the core building blocks of Spring Cloud Stream<br/>
+40. What external messaging systems does Spring Cloud Stream support<br/>
+41. What is Spring cloud sleuth<br/>
+42. What is Spring cloud security<br/>
+43. What is a service fuse? What is service degradation<br/>
+44. How does Spring Cloud Gateway Limit Request Payload Size<br/>
+45. What is the difference between SpringBoot and SpringCloud<br/>
+46. What is eureka’s self-protection mechanism<br/>
+47. The difference between Ribbon and Feign<br/>
+48. What are some common Spring cloud annotations<br/>
 
 
 ## Spring Security
