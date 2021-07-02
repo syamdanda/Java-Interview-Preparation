@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring AOP</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">23</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -129,7 +129,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring Batch</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">32</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -881,19 +881,28 @@ Class is a user defined structure/datatype in java.
 ## Spring AOP
 
 1. What is Spring AOP<br/>
-What are the AOP terminology<br/>
-What is Aspect, Advice, Pointcut, JointPoint and Advice Arguments in AOP<br/>
-Does spring framework support all JoinPoints<br/>
-What is Advice in Spring? Explain its various types<br/>
-Could you draw a comparison between concern and crosscutting concerns in Spring AOP<br/>
-What is a Pointcut, JoinPoint     <br/>
-What is a Proxy and When is the target object and proxy object the same<br/>
-Define Run-time AOP vs Compile-time AOP<br/>
-
-
-What are the different AOP implementations<br/>
-What are the differences between Spring AOP and AspectJ AOP<br/>
-n Spring, what is Weaving<br/>
+2. What are the AOP terminology<br/>
+3. What is Aspect, Advice, Pointcut, JointPoint and Advice Arguments in AOP<br/>
+4. Does spring framework support all JoinPoints<br/>
+5. What is Advice in Spring? Explain its various types<br/>
+6. Could you draw a comparison between concern and crosscutting concerns in Spring AOP<br/>
+7. What is named pointcut<br/>
+8. What is a Proxy and When is the target object and proxy object the same<br/>
+9. What are the different types of AutoProxying in Spring AOP<br/>
+10. Define Run-time AOP vs Compile-time AOP<br/>
+11. Name three Typical Cross Cutting concerns<br/>
+12. Explain XML schema-based aspect implementation in spring AOP<br/>
+13. What are the different AOP implementations<br/>
+14. What are the differences between Spring AOP and AspectJ AOP<br/>
+15. What is weaving in Spring AOP? What are the different points where weaving can be applied<br/>
+16. What do you understand by Load-time weaving<br/>
+17. When to use Spring AOP and when to use full AspectJ<br/>
+18. Which design pattern is used in Spring AOP<br/>
+19. Can @Aspect classes be automatically scanned with component scannning<br/>
+20. What is the difference between JoinPoint and Pointcut<br/>
+21. What are other PointCut Designators<br/>
+22. Limitations of Spring AOP<br/>
+23. What is the difference between concern and cross-cutting concern in Spring AOP<br/>
 
 
 ## Spring Reactive
@@ -1027,6 +1036,8 @@ n Spring, what is Weaving<br/>
 
 
 ## Spring Security
+1. What is Spring Security<br/>
+
 
 
 
@@ -1038,6 +1049,31 @@ n Spring, what is Weaving<br/>
 4. When to use Spring Batch<br/>
 5. How Spring Batch works<br/>
 6. How can we schedule a Spring Batch Job<br/>
-7. What is Tasklet in Spring Batch<br/>
+7. What are Tasklet and Chunk models in Spring Batch<br/>
+8. How to pick between Tasklet model and Chunk model<br/>
+9. What is a Spring Scheduler<br/>
+10. What do you understand by Partitioning In Spring Batch Framework<br/>
+11. What are the main component in spring batch<br/>
+12. What are the typical processing strategies in spring batch<br/>
+13. How do I start a Spring Batch Job<br/>
+14. Explain Normal processing strategy in spring Batch framework<br/>
+15. Explain Concurrent batch on-line processing in Spring Batch Framework<br/>
+16. Explain parallel processing in Spring Batch Framework<br/>
+17. Explain Partitioning in Spring Batch framework<br/>
+18. What are Spring Batch metadata schema<br/>
+19. Can we configure Spring Batch without persisting metadata to database<br/>
+20. How do we track the number of item processed by the ItemReader in Spring batch<br/>
+21. How do I intercept a Job Execution in Spring Batch<br/>
+22. What are Step, StepExecution, Job launcher, ExecutionContext, ItemProcessor, JobInstance, ExecutionContext, JobRepository in Spring Batch framework<br/>
+23. Can we create Spring Batch Job without using XML configuration<br/>
+24. How do I configure parallel execution of steps in Spring Batch<br/>
+25. What is ResourceAware is Spring Batch<br/>
+26. Difference between Spring Batch and Quartz Scheduler<br/>
+27. How do I schedule a job with Spring Batch<br/>
+28. How can I make an item reader thread safe in Spring Batch<br/>
+29. What is ItemReader and ItemWriter in Spring batch framework<br/>
+30. Difference between Step and StepExecution<br/>
+31. Explain the role of JobParametersValidator in Spring Batch<br/>
+32. What is SkipListener in Spring Batch Listener<br/>
 
 
