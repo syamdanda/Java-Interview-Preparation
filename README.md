@@ -1037,7 +1037,37 @@ Class is a user defined structure/datatype in java.
 
 ## Spring Security
 1. What is Spring Security<br/>
-
+How do I enable Spring Security in Java Web application<br/>
+What is Oauth<br/>
+Difference between OAuth 1 and OAuth 2<br/>
+What is JCA in Java<br/>
+What is meant by Public Key Infrastructure<br/>
+How Java supports PKI Model<br/>
+Types of authentication that spring supports<br/>
+Explain BASIC authentication<br/>
+Explain digest authentication<br/>
+Explain mutual authentication<br/>
+Does Spring Security support password hashing<br/>
+What is salting in spring security<br/>
+What is a security context<br/>
+What is security principal<br/>
+Which filter class is required for spring security<br/>
+What are the features of using Spring Security<br/>
+Mention other filters in spring security and its purpose<br/>
+What Is Mandatory Filter Name Main Purpose<br/>
+What Is The Delegating Filter Proxy<br/>
+What Is The Security Filter Chain<br/>
+What is so special about FilterChainProxy<br/>
+What do you mean by public key feature<br/>
+Are You Able To Add And/or Replace Individual Filters<br/>
+Why Do You Need The Intercept-url<br/>
+In Which Order Do You Have To Write Multiple Intercept-url’s<br/>
+How to restrict static resources using spring security<br/>
+What is DelegatingFilterProxy in Spring Security<br/>
+What Do @secured And @rolesallowed Do? What Is The Difference Between Them<br/>
+What Is Authentication And Authorization? Which Must Come First<br/>
+What Are Access Controls In Spring Security<br/>
+How To Add Security To Method Calls Made On Spring Beans In The Application Context<br/>
 
 
 
