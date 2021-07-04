@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring security</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">42</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -1037,37 +1037,47 @@ Class is a user defined structure/datatype in java.
 
 ## Spring Security
 1. What is Spring Security<br/>
-How do I enable Spring Security in Java Web application<br/>
-What is Oauth<br/>
-Difference between OAuth 1 and OAuth 2<br/>
-What is JCA in Java<br/>
-What is meant by Public Key Infrastructure<br/>
-How Java supports PKI Model<br/>
-Types of authentication that spring supports<br/>
-Explain BASIC authentication<br/>
-Explain digest authentication<br/>
-Explain mutual authentication<br/>
-Does Spring Security support password hashing<br/>
-What is salting in spring security<br/>
-What is a security context<br/>
-What is security principal<br/>
-Which filter class is required for spring security<br/>
-What are the features of using Spring Security<br/>
-Mention other filters in spring security and its purpose<br/>
-What Is Mandatory Filter Name Main Purpose<br/>
-What Is The Delegating Filter Proxy<br/>
-What Is The Security Filter Chain<br/>
-What is so special about FilterChainProxy<br/>
-What do you mean by public key feature<br/>
-Are You Able To Add And/or Replace Individual Filters<br/>
-Why Do You Need The Intercept-url<br/>
-In Which Order Do You Have To Write Multiple Intercept-url’s<br/>
-How to restrict static resources using spring security<br/>
-What is DelegatingFilterProxy in Spring Security<br/>
-What Do @secured And @rolesallowed Do? What Is The Difference Between Them<br/>
-What Is Authentication And Authorization? Which Must Come First<br/>
-What Are Access Controls In Spring Security<br/>
-How To Add Security To Method Calls Made On Spring Beans In The Application Context<br/>
+2. How do I enable Spring Security in Java Web application<br/>
+3. What is Oauth<br/>
+4. Difference between OAuth 1 and OAuth 2<br/>
+5. What is OAuth2 Authorization code grant type<br/>
+6. What is JCA in Java<br/>
+7. What is meant by Public Key Infrastructure<br/>
+8. How Java supports PKI Model<br/>
+9. Types of authentication that spring supports<br/>
+10. Explain BASIC authentication<br/>
+11. What are the drawbacks of using Basic Authentication<br/>
+12. Explain digest authentication<br/>
+13. Explain mutual authentication<br/>
+14. Does Spring Security support password hashing<br/>
+15. What is salting in spring security<br/>
+16. What is a security context and Security Context Holder<br/>
+17. What is security principal<br/>
+18. Which filter class is required for spring security<br/>
+19. What are the features of using Spring Security<br/>
+20. Mention other filters in spring security and its purpose<br/>
+21. What Is Mandatory Filter Name Main Purpose<br/>
+22. What Is The Delegating Filter Proxy<br/>
+23. What Is The Security Filter Chain<br/>
+24. What is so special about FilterChainProxy<br/>
+25. What do you mean by public key feature<br/>
+26. Are You Able To Add And/or Replace Individual Filters<br/>
+27. Why Do You Need The Intercept-url<br/>
+28. In Which Order Do You Have To Write Multiple Intercept-url’s<br/>
+29. How to restrict static resources using spring security<br/>
+30. What is DelegatingFilterProxy in Spring Security<br/>
+31. What Do @secured And @rolesallowed Do? What Is The Difference Between Them<br/>
+32. What Is Authentication And Authorization? Which Must Come First<br/>
+33. What Are Access Controls In Spring Security<br/>
+34. How To Add Security To Method Calls Made On Spring Beans In The Application Context<br/>
+35. How to refresh Expired JWT Token<br/>
+36. What are Authorities in Authentication object<br/>
+37. What is ProviderManager in Spring Security<br/>
+38. What are Runners in Spring Security<br/>
+39. What are All Security Layers In Spring Security Framework<br/>
+40. What Are Access Controls In Spring Security<br/>
+41. What is the difference between ROLE_USER and ROLE_ANONYMOUS in a Spring intercept url configuration<br/>
+42. Difference between a Java Keystore JKS and PKCS12<br/>
 
 
 
