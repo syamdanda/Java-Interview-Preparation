@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">Spring Reactive</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">08</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -130,6 +130,12 @@
   <tr>
     <td class="tg-yw4l">Spring Batch</td>
     <td class="tg-yw4l">32</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Hibernate</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
@@ -412,7 +418,7 @@ Class is a user defined structure/datatype in java.
 
 ## 4. Collections
 
-1. What is the Java Collection framework <br/> List down its advantages <br/>
+1. What is the Java Collection framework and List down its advantages <br/>
 2. Explain Collection’s hierarchy and What are the basic interfaces of Java Collections Framework  <br/>
 3. Why Collection interface does not extend Cloneable and Serializable interface <br/>
 4. Why Map interface does not extend Collection interface <br/>
@@ -469,13 +475,13 @@ Class is a user defined structure/datatype in java.
 55. How does HashSet is implemented in Java, How does it use Hashing <br/>
 56. What do you need to do to use a custom object as a key in Collection classes like Map or Set <br/>
 57. When do you use ConcurrentHashMap in Java <br/>
-58. What is NavigableMap in Java <br/> What is a benefit over Map <br/>
+58. What is NavigableMap in Java ?  What is a benefit over Map <br/>
 59. Can we replace Hashtable with ConcurrentHashMap <br/>
 60. What is CopyOnWriteArrayList, how it is different than ArrayList and Vector <br/>
 61. Why ListIterator has added() method but Iterator doesn't or Why to add() method is declared in ListIterator and not on Iterator <br/>
 62. When does ConcurrentModificationException occur on iteration <br/>
 63. What is BlockingQueue, how it is different than other collection classes <br/>
-64. What Is the Purpose of the Initial Capacity and Load Factor Parameters of a Hashmap <br/> What Are Their Default Values <br/>
+64. What Is the Purpose of the Initial Capacity and Load Factor Parameters of a Hashmap and What Are Their Default Values <br/>
 65. Describe Special Collections for Enums. What Are the Benefits of Their Implementation Compared to Regular Collections <br/>
 66. What are IdentityHashMap and WeakHashMap <br/>
 67. How to make a collection read only <br/>
@@ -1115,5 +1121,8 @@ Class is a user defined structure/datatype in java.
 30. Difference between Step and StepExecution<br/>
 31. Explain the role of JobParametersValidator in Spring Batch<br/>
 32. What is SkipListener in Spring Batch Listener<br/>
+
+## Hibernate
+1. 
 
 
