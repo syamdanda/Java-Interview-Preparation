@@ -222,11 +222,14 @@
 ## 1. Java Basics
 
 1. What is JAVA <br/>
-<details><summary><b>Answer</b></summary>
-  <p> 
-    > Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture
-    </p>
-</details>
+ ```javascript 
+     Java is a class-based, object-oriented programming language that is designed to have as few 
+     implementation dependencies as possible. It is a general-purpose programming language intended 
+     to let application developers write once, run anywhere (WORA),meaning that compiled Java code 
+     can run on all platforms that support Java without the need for recompilation. Java applications 
+     are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of 
+     the underlying computer architecture. 
+```
 2. Explain JDK, JRE and JVM <br/>
 3. What’s the distinction Between a JDK and a JVM <br/>
 4. Explain Java’s “write once and run anywhere” Nature <br/>
@@ -257,10 +260,7 @@
 
 1. What is a Class <br/>
 <details><summary><b>Answer</b></summary>
-<p>
-#### Answer: 
 Class is a user defined structure/datatype in java.
-</p>
 </details>
 2. What is a class field / attribute <br/>
 3. What do you know about Java class loading <br/>
