@@ -257,8 +257,7 @@
 
 1. What is a Class <br/>
 <details><summary><b>Answer</b></summary>
-<p>
-#### Answer: 
+<p>Answer: 
 Class is a user defined structure/datatype in java.
 </p>
 </details>
