@@ -20,193 +20,129 @@
   <tr>
     <td class="tg-yw4l">Collections</td>
     <td class="tg-yw4l">71</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Multi-threading</td>
     <td class="tg-yw4l">74</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Files & I/O</td>
     <td class="tg-yw4l">32</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Lambda Expressions</td>
     <td class="tg-yw4l">23</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Functional Interfaces</td>
     <td class="tg-yw4l">13</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Reactive Programing</td>
     <td class="tg-yw4l">21</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Streams</td>
     <td class="tg-yw4l">17</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Java 8 Features</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">JUnit</td>
     <td class="tg-yw4l">36</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">TestNG</td>
     <td class="tg-yw4l">41</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">MockitIO</td>
     <td class="tg-yw4l">19</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring</td>
     <td class="tg-yw4l">51</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring AOP</td>
     <td class="tg-yw4l">23</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring Reactive</td>
     <td class="tg-yw4l">08</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring boot</td>
     <td class="tg-yw4l">64</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring Cloud & Microservices</td>
     <td class="tg-yw4l">48</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring security</td>
     <td class="tg-yw4l">42</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Spring Batch</td>
     <td class="tg-yw4l">32</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Hibernate</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Maven</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Docker</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Kubernetes</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">APIGee</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">KONG</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Kafka</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Design Patterns</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Sorting</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Searching</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Datastructures</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Algorithms</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Architectures & Designs</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
    <tr>
     <td class="tg-yw4l">Java Programs</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
 </table>
