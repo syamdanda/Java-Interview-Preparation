@@ -4,26 +4,18 @@
   <tr>
     <th class="tg-yw4l"><b>Concept</b></th>
     <th class="tg-yw4l"><b>Total Questions</b></th>
-    <th class="tg-yw4l"><b>Status</b></th>
-    <th class="tg-yw4l"><b>Comments</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Java Basics</td>
     <td class="tg-yw4l">26</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr> 
   <tr>
     <td class="tg-yw4l">Oops</td>
     <td class="tg-yw4l">106</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Exception Handling</td>
     <td class="tg-yw4l">42</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Collections</td>
