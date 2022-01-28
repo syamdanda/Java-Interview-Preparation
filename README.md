@@ -145,6 +145,18 @@
     <td class="tg-yw4l">Java Programs</td>
     <td class="tg-yw4l"></td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">GCP</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">AWS</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Microservices-Erueka</td>
+    <td class="tg-yw4l"></td>
+  </tr>
 </table>
 
 ## 1. Java Basics
