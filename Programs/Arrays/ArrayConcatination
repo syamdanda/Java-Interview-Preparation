@@ -1,0 +1,34 @@
+Input: array=[1,2,4,6]
+output:array=[1,2,4,6,1,2,4,6]
+
+
+===========================================
+
+package Arrays;
+
+public class ConcatinateArray {
+
+	public static void main(String args[]) {
+		int nums[]= {1,2,1};
+		ConcatinateArray obj= new ConcatinateArray();
+		int[] output=obj.getConcatenation(nums);
+		//System.out.println("&&&&&&&&&&");
+		for(int i=0;i<output.length;i++) {
+			System.out.println(output[i]);
+		}
+	}
+	
+	 public int[] getConcatenation(int[] nums) {
+	        int index = 2*nums.length;
+	        int n=0;
+	        int[] output=new int[index];
+	        for(int i=0;i<index;i++){
+	       
+	        	if(n==nums.length)
+	        		n=0;
+	        	 output[i]=nums[n++];
+	        
+	        }
+	        return output;
+	    }
+}
