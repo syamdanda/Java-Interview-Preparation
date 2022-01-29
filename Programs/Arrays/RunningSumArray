@@ -1,0 +1,25 @@
+input: input=[1,1,1,1,1]
+output: output=[1,2,3,4,5]
+
+
+==============================
+
+package Arrays;
+
+public class RunningSum {
+public static void main(String args[]) {
+	int[] input= {1,1,1,1,1};
+	RunningSum obj = new RunningSum();
+	int[] output=obj.sumofRunningArray(input);
+}
+int[] sumofRunningArray(int[] input) {
+	int output[]= new int[input.length];
+	int sum=0;
+	for(int i=0;i<input.length;i++) {
+		sum=sum+input[i];
+		output[i]=sum;
+	}
+	return output;
+	
+}
+}
