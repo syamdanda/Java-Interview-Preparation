@@ -1,0 +1,39 @@
+Input: candies = [2,3,5,1,3], extraCandies = 3
+Output: [true,true,true,false,true] 
+Explanation: If you give all extraCandies to:
+- Kid 1, they will have 2 + 3 = 5 candies, which is the greatest among the kids.
+- Kid 2, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
+
+=====================================
+
+
+package Arrays;
+
+import java.util.*;
+
+public class GreatestCNoCandies {
+
+	public static void main(String[] args) {
+		int[] nums = {4,2,1,1,2};
+		int n = 1;
+		GreatestCNoCandies obj = new GreatestCNoCandies();
+		List<Boolean> list = obj.findGratesCandiesKids(nums,n);
+		//System.out.println(list);
+
+	}
+	List<Boolean> findGratesCandiesKids(int[] candies,int extraCandies){
+		List<Boolean> list = new ArrayList<Boolean>();
+		int index=0;
+		for(int i = 0 ; i < candies.length; i++)
+            if(candies[i] > index)
+                index = candies[i];
+        for(int i = 0 ; i < candies.length ; i++)
+            if(candies[i] + extraCandies >= index) {
+            	list.add(true);
+            }else {
+            	list.add(false);
+            }
+		return list;
+	}
+
+}
