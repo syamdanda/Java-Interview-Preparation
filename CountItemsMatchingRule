@@ -1,0 +1,59 @@
+items[i] = [typei, colori, namei]
+Input: items = [["phone","blue","pixel"],["computer","silver","phone"],["phone","gold","iphone"]], ruleKey = "type", ruleValue = "phone"
+Output: 2
+Explanation: There are only two items matching the given rule, which are ["phone","blue","pixel"] and ["phone","gold","iphone"]. Note that the item ["computer","silver","phone"] does not match.
+
+==========================================================
+
+package Arrays;
+
+import java.util.*;
+
+public class CountItemsMatchingRule {
+
+	public static void main(String[] args) {
+		List<String> item=new ArrayList<String>();
+		item.add("phone");
+		item.add("blue");
+		item.add("pixel");
+		String ruleKey = "color", ruleValue = "silver";
+		List<List<String>> items= new ArrayList<List<String>>();
+		items.add(item);
+		item = new ArrayList<String>();
+		item.add("computer");
+		item.add("silver");
+		item.add("lenovo");
+		items.add(item);
+		item = new ArrayList<String>();
+		item.add("phone");
+		item.add("gold");
+		item.add("iphone");
+		items.add(item);
+		CountItemsMatchingRule obj = new CountItemsMatchingRule();
+		int count = obj.countMatches(items, ruleKey, ruleValue) ;
+		//System.out.println(count);
+	}
+	int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
+		int count =0;
+		for(int i=0;i<items.size();i++) {
+			List<String> item = items.get(i);
+			switch(ruleKey) {
+			case "type":
+				if(item.get(0).equals(ruleValue))
+					count++;
+				break;
+			case "color":
+				if(item.get(1).equals(ruleValue))
+					count++;
+				break;
+			case "name":
+				if(item.get(2).equals(ruleValue))
+					count++;
+				break;
+			}
+		}
+			
+		return count;
+	}
+
+}
