@@ -1,0 +1,53 @@
+["OrderedStream", "insert", "insert", "insert", "insert", "insert"]
+[[5], [3, "ccccc"], [1, "aaaaa"], [2, "bbbbb"], [5, "eeeee"], [4, "ddddd"]]
+Output
+[null, [], ["aaaaa"], ["bbbbb", "ccccc"], [], ["ddddd", "eeeee"]]
+
+======================================
+
+package Arrays;
+
+import java.util.*;
+
+public class OrderedStream {
+	 int n;
+	int index=1;
+	Map<Integer,String> temp = new HashMap<Integer,String>();
+	public OrderedStream(int n) {
+		this.n=n;
+	}
+	public static void main(String[] args) {
+		OrderedStream obj = new OrderedStream(9);
+		List<String> param_1 = obj.insert(9,"nghbm");
+		List<String> param_2 = obj.insert(7,"hgeob");
+		List<String> param_3 = obj.insert(6,"mwlrz");
+		List<String> param_4 = obj.insert(4,"oalee");
+		List<String> param_5 = obj.insert(2,"bouhq");
+		List<String> param_6 = obj.insert(1,"mnknb");
+		List<String> param_7 = obj.insert(5,"qkxbj");
+		List<String> param_8 = obj.insert(8,"iydkk");
+		List<String> param_9 = obj.insert(3,"oqdnf");
+	}
+
+	public List<String> insert(int idKey, String value) {
+		List<String> result = new ArrayList<String>();
+		if(idKey==index) {
+			result.add(value);
+			index=index+1;
+			for(int i=0;i<n;i++) {
+				if(temp.get(index)!=null) {
+					result.add(temp.get(index));
+					index=index+1;
+				}
+				
+			}
+		}
+		else {
+			temp.put(idKey, value);
+		}
+		//System.out.println(result);
+		return result;
+
+	}
+
+}
