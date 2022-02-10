@@ -1,0 +1,38 @@
+Input: word1 = ["ab", "c"], word2 = ["a", "bc"]
+Output: true
+Explanation:
+word1 represents string "ab" + "c" -> "abc"
+word2 represents string "a" + "bc" -> "abc"
+The strings are the same, so return true.
+
+=====================================================
+
+package Arrays;
+
+public class EquivalentTwoArrays {
+
+	public static void main(String[] args) {
+		String[] word1 = {"ab", "c"}, word2 = {"a", "bc"};
+		EquivalentTwoArrays obj = new EquivalentTwoArrays();
+		boolean response = obj.arrayStringsAreEqual(word1,word2) ;
+		//System.out.println(response);
+
+	}
+	boolean arrayStringsAreEqual(String[] word1,String[] word2) {
+
+		StringBuffer sb1 = new StringBuffer();
+		StringBuffer sb2 = new StringBuffer();
+		int i;
+		for(i=0;i<word1.length;i++) 
+			   sb1.append(word1[i]);
+		
+		for(i=0;i<word2.length;i++) 
+			   sb2.append(word2[i]);
+		
+		if(sb1.toString().equals(sb2.toString()))
+			return true;
+		else
+		return false;
+	}
+
+}
