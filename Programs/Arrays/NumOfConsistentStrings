@@ -1,0 +1,36 @@
+Input: allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
+Output: 2
+Explanation: Strings "aaab" and "baa" are consistent since they only contain characters 'a' and 'b'.
+
+==================================
+
+package Arrays;
+
+public class NumOfConsistentStrings {
+
+	public static void main(String[] args) {
+		String allowed = "abc";
+		String[] words = {"a","b","c","ab","ac","bc","abc"};
+		NumOfConsistentStrings obj = new NumOfConsistentStrings();
+		int count = obj.countConsistentStrings( allowed, words);
+		//System.out.println(count);
+	}
+	
+	int countConsistentStrings(String allowed, String[] words) {
+		char[] temp ;
+		int count=0;
+		for(int i=0;i<words.length;i++) {
+			temp=words[i].toCharArray();
+			boolean flag=false;
+			for(int j=0;j<temp.length;j++) {
+				if(allowed.indexOf(temp[j])==-1) {
+					flag=true;
+				}
+			}
+			if(!flag)
+				count++;
+		}
+		return count;
+	}
+
+}
