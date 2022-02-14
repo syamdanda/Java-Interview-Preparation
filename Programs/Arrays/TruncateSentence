@@ -1,0 +1,33 @@
+Input: s = "Hello how are you Contestant", k = 4
+Output: "Hello how are you"
+Explanation:
+The words in s are ["Hello", "how" "are", "you", "Contestant"].
+The first 4 words are ["Hello", "how", "are", "you"].
+Hence, you should return "Hello how are you".
+
+============================
+
+
+package Arrays;
+import java.util.*;
+public class TruncateSentence {
+
+	public static void main(String[] args) {
+		String s = "Hello how are you Contestant";
+		int  k = 4;
+		TruncateSentence obj=new TruncateSentence();
+		String res=obj.truncateSentence(s,k);
+		//System.out.println(res+"&&&");
+	}
+	public String truncateSentence(String s, int k) {
+		String[] array = s.split(" ");
+		StringBuilder sb = new StringBuilder();
+		String[] temp=Arrays.copyOfRange(array,0,k);
+		for(String str:temp) {
+			sb.append(str);
+			sb.append(" ");
+		}
+		return sb.toString().substring(0,sb.length()-1);
+	}
+
+}
