@@ -1,0 +1,30 @@
+Input: words = ["abc","car","ada","racecar","cool"]
+Output: "ada"
+Explanation: The first string that is palindromic is "ada".
+Note that "racecar" is also palindromic, but it is not the first.
+==============================================
+
+package Arrays;
+
+public class FirstPelindromeString {
+
+	public static void main(String[] args) {
+		
+		FirstPelindromeString obj = new FirstPelindromeString();
+		String[] words = {"abc","car","ada","racecar","cool"};
+		String res=obj.firstPalindrome( words);
+		System.out.println(res);
+	}
+	String firstPalindrome(String[] words) {
+		StringBuilder bs ;
+		for(String str:words) {
+			bs= new StringBuilder();
+			if(str.equals(bs.append(str).reverse().toString()))
+				return str;
+		}
+		
+		
+		return "";
+	}
+
+}
