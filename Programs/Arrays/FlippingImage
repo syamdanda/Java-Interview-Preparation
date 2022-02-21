@@ -1,0 +1,41 @@
+Input: image = [[1,1,0],[1,0,1],[0,0,0]]
+Output: [[1,0,0],[0,1,0],[1,1,1]]
+Explanation: First reverse each row: [[0,1,1],[1,0,1],[0,0,0]].
+Then, invert the image: [[1,0,0],[0,1,0],[1,1,1]]
+
+=======================================
+
+package Arrays;
+
+
+public class FlippingImage {
+
+	public static void main(String[] args) {
+		FlippingImage obj = new FlippingImage();
+		int[][] image= {{1,1,0},{1,0,1},{0,0,0}};
+		int[][] result = obj.flipAndInvertImage( image);
+		
+	}
+	
+	int[][] flipAndInvertImage(int[][] image) {
+		int[][] output = new int[image.length][];
+		
+		for(int i=0;i<image.length;i++) {
+			int[] temp= image[i];
+			int[] res=new int[temp.length];
+			int index=0;
+			for(int j=temp.length-1;j>=0;j--) {
+				if(temp[j]==0) {
+					res[index]=1;	
+				}else {
+					res[index]=0;
+				}
+				index++;
+			}
+			output[i]=res;
+		}
+		return output;
+		
+	}
+
+}
