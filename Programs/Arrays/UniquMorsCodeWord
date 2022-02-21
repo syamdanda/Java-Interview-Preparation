@@ -1,0 +1,55 @@
+Input: words = ["gin","zen","gig","msg"]
+Output: 2
+Explanation: The transformation of each word is:
+"gin" -> "--...-."
+"zen" -> "--...-."
+"gig" -> "--...--."
+"msg" -> "--...--."
+There are 2 different transformations: "--...-." and "--...--.".
+
+===============================================
+
+package Arrays;
+import java.util.*;
+
+public class UniquMorsCodeWord {
+
+	public static void main(String[] args) {
+		UniquMorsCodeWord obj = new UniquMorsCodeWord();
+		String[] words= {"a"};
+		int res= obj.uniqueMorseRepresentations(words);
+		System.out.println(res);
+	}
+	
+	int uniqueMorseRepresentations(String[] words) {
+		int count=0;
+		String[] temp= {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
+		Map tempMap = new HashMap();
+		char c='a';
+		int i;
+		for(i=0;i<temp.length;i++) {
+			tempMap.put(c++, temp[i]);
+		}
+		char[] carray;
+		StringBuilder sb;
+		Map<String,Integer> outPutMap = new HashMap();
+		
+		for(String str:words) {
+			carray=str.toCharArray();
+			sb = new StringBuilder();
+			for(i=0;i<carray.length;i++) {
+				sb.append(tempMap.get(carray[i]));
+			}
+			if(outPutMap.containsKey(sb.toString())) {
+				outPutMap.put(sb.toString(), outPutMap.get(sb.toString())+1);
+			}else {
+				outPutMap.put(sb.toString(),0);
+			}
+		}
+	
+		return outPutMap.size();
+	}
+
+}
+
+
